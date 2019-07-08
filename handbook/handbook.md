@@ -1,4 +1,4 @@
-# Employee Handbook v1.0
+# Employee Handbook
 
 ## Version history
 
