@@ -2,7 +2,7 @@
 
 ## Version history
 
- - v0.9.2, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
+ - v0.9.3, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
  - v0.9, 2019-07-01 - A copy from https://github.com/opengovfoundation/hr-manual
  
 
@@ -162,8 +162,6 @@ Any time that you won't be available during the regular work day (9 AM to 5 PM l
 ### Vacation & Leave Policy
 We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/).
 
-We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.
-
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we encourage enjoying life outside of the office.
 
 We encourage employees to **use** their vacation time.
@@ -179,7 +177,7 @@ Please notify the team if you are sick and need to take the day off. All employe
 
 ## How We Work
 
-### Email Accounts, Document Sharing & Password Sharing
+### Email Accounts & Document Sharing
 We will set you up with an organizational Google Suite account. This will provide you access to all the basic necessities like email, calendar, and shared storage.
 
 Please use your organizational email address for all work-related correspondence, scheduling, etc. Personal accounts should not be used for work-related activities.
@@ -257,9 +255,9 @@ The unlawful or improper presence or use of controlled substances or alcohol in 
 
 ## Compliance Notices
 
-State and federal agencies require that we share posters with our employees that informs them of their rights. We keep these posters in this repository in the "posters" directly, and post some additional information below. 
+State and federal agencies require that we share posters with our employees that informs them of their rights. We keep these posters in this repository in the "posters" directory, and post some additional information below. 
 
-Please review your rights.  
+Please review and know your rights.  
 
 ### Emergency Phone Numbers
 
