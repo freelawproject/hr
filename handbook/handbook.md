@@ -2,7 +2,7 @@
 
 ## Version history
 
- - v0.9.1, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
+ - v0.9.2, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
  - v0.9, 2019-07-01 - A copy from https://github.com/opengovfoundation/hr-manual
  
 
@@ -38,63 +38,16 @@ The long, official, IRS-approved version of our mission is:
     charitable, and scientific purposes as allowed by law.
 
 
-## Creating a Safe, Productive Workplace
+## Staff & Boards
 
-### Equal Employment, Non-Discrimination, and Reasonable Accommodation
+### Staff
+* Michael Lissner, Co-Founder and Executive Director
+* Bill Palin, Open Data Backend Developer
 
-Free Law Project is committed to equal employment opportunity.
-
-We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, national origin, age, disability (physical or mental), genetic information, sex, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity or expression, parental status, marital status, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
-
-We are committed to providing equal employment opportunities to qualified individuals with disabilities. This may include providing reasonable accommodation where appropriate in order for an otherwise qualified individual to perform the essential functions of the job.
-
-
-### Harassment, Bullying, Violence in the Workplace Policy
-
-We prohibit harassment of one employee by another employee, supervisor or third party for any reason. Harassment of third parties by our employees is also prohibited.
-
-The purpose of this policy is to ensure that all employees shall be free from harassment of any kind.  The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
-
-While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
-
-For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm).
-
-In addition to prohibiting harassment in these forms, we also consider the following unacceptable:
-
- - Making negative or offensive remarks, regardless of to whom they are directed.
-
- - Touching people without their affirmative consent.
-
- - Repeatedly and unnecessarily disrupting formal or informal gatherings or meetings, whether in person or within a chat room setting.
-
- - Retaliating against anyone who files a complaint that someone has violated the provisions of this manual.
-
- - Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by knowing and intentional use of incorrect pronouns or forms of address.
-
- - Engaging in behaviors that marginalize people or communicate hostile, derogatory, or negative beliefs. Examples include:
- 
-    - Patronizing or belittling a person or group,
-    - Repeatedly interrupting or talking over someone else,
-    - Pedantic corrections that don’t add value,
-    - Expressing an assumption that persons or groups need concepts defined or explained to them without first asking if they do,
-    - Using unsubstantiated language that creates or furthers a belief which diminishes the value or contributions of a person or group,
-    - Employing racially or ethnically charged language to describe a person or thing,
-    - Referring to an individual in a way that demeans or challenges the validity of any aspect of their personal identity, or
-    - Mocking someone’s real or perceived accent or first language.
-
-In sum, we always seek to maintain a professional, healthy and supportive environment for every employee. **The guiding principle of Free Law Project is to be excellent to one another.**
-
-
-### Reporting and Resolution of Violations
-
-Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Chair, Vice Chair, or Treasurer of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee should report the situation to one of the other designated persons to receive complaints.
-
-The organization will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
-
-
-### Drug & Alcohol Policy
-
-The unlawful or improper presence or use of controlled substances or alcohol in the workplace can present a danger to all employees. All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
+### Board of Directors
+* Brian Carver
+* Michael Lissner
+* Ansel Halliburton
 
 
 ## Professional Conduct
@@ -128,17 +81,6 @@ It is our policy that media inquiries directly pertaining to the organization, i
 
 We also encourage individual employees to speak to members of the media about any subject matter of their choosing, including any subject matter in which the organization may be involved. We simply ask that you present your views as "personal" and not of the organization (unless authorized to do so).
 
-
-## Staff & Boards
-
-### Staff
-* Michael Lissner, Co-Founder and Executive Director
-* Bill Palin, Open Data Backend Developer
-
-### Board of Directors
-* Brian Carver
-* Michael Lissner
-* Ansel Halliburton
 
 
 ## Benefits & Compensation
@@ -217,7 +159,6 @@ Employees are able to work from home and/or remotely and the organization will m
 
 Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your work calendar so your colleagues will know that you are not available.
 
-
 ### Vacation & Leave Policy
 We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/).
 
@@ -231,7 +172,6 @@ We encourage employees to **use** their vacation time.
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. All extended periods of leave must be discussed with the Executive Director.
 
 To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified.
-
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
@@ -250,11 +190,69 @@ Please keep your availability updated on your Google calendar account associated
 ### Regular Meetings
 All meetings must be held in a manner that allows for full participation of all employees, regardless of such individual variables such as geographic location.
 
-
-#### Book Clubs, "Family" Meals, and Other Informal Rituals
+### Book Clubs, "Family" Meals, and Other Informal Rituals
 We are a small, close knit team. To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee may sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.
 
 As in any endeavor, it is critical that any informal gathering or group clearly define its purpose and the expectation placed upon its participants.
+
+
+## Creating a Safe, Productive Workplace
+
+### Equal Employment, Non-Discrimination, and Reasonable Accommodation
+
+Free Law Project is committed to equal employment opportunity.
+
+We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, national origin, age, disability (physical or mental), genetic information, sex, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity or expression, parental status, marital status, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
+
+We are committed to providing equal employment opportunities to qualified individuals with disabilities. This may include providing reasonable accommodation where appropriate in order for an otherwise qualified individual to perform the essential functions of the job.
+
+
+### Harassment, Bullying, Violence in the Workplace Policy
+
+We prohibit harassment of one employee by another employee, supervisor or third party for any reason. Harassment of third parties by our employees is also prohibited.
+
+The purpose of this policy is to ensure that all employees shall be free from harassment of any kind.  The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
+
+While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
+
+For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm).
+
+In addition to prohibiting harassment in these forms, we also consider the following unacceptable:
+
+ - Making negative or offensive remarks, regardless of to whom they are directed.
+
+ - Touching people without their affirmative consent.
+
+ - Repeatedly and unnecessarily disrupting formal or informal gatherings or meetings, whether in person or within a chat room setting.
+
+ - Retaliating against anyone who files a complaint that someone has violated the provisions of this manual.
+
+ - Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by knowing and intentional use of incorrect pronouns or forms of address.
+
+ - Engaging in behaviors that marginalize people or communicate hostile, derogatory, or negative beliefs. Examples include:
+ 
+    - Patronizing or belittling a person or group,
+    - Repeatedly interrupting or talking over someone else,
+    - Pedantic corrections that don’t add value,
+    - Expressing an assumption that persons or groups need concepts defined or explained to them without first asking if they do,
+    - Using unsubstantiated language that creates or furthers a belief which diminishes the value or contributions of a person or group,
+    - Employing racially or ethnically charged language to describe a person or thing,
+    - Referring to an individual in a way that demeans or challenges the validity of any aspect of their personal identity, or
+    - Mocking someone’s real or perceived accent or first language.
+
+In sum, we always seek to maintain a professional, healthy and supportive environment for every employee. **The guiding principle of Free Law Project is to be excellent to one another.**
+
+
+### Reporting and Resolution of Violations
+
+Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Chair, Vice Chair, or Treasurer of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee should report the situation to one of the other designated persons to receive complaints.
+
+The organization will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
+
+
+### Drug & Alcohol Policy
+
+The unlawful or improper presence or use of controlled substances or alcohol in the workplace can present a danger to all employees. All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
 
 
 ## Compliance Notices
