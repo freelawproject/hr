@@ -1,23 +1,23 @@
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+# Employee Handbook v1.0
 
-This is currently super drafty. Indeed, some parts are based on other handbooks that have been blindly copy/pasted into this one. This definitely does not apply to anybody yet, but when our first final version is ready, we will be sure to let everybody know. 
+## Version history
 
-Until then, there's not much point in even reading this unless you want to get your hands dirty writing it. But probably that should be limited to just me and the board of directors.
+ - v0.9.1, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
+ - v0.9, 2019-07-01 - A copy from https://github.com/opengovfoundation/hr-manual
+ 
 
-— mlissner, 2019-07-05  
+## Overview
 
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+This handbook aims to memorialize the policies, goals, and culture of Free Law Project. All volunteers are asked to agree to this policy, and all employees must agree to it as a term of their employment contract.
 
-
-# Policy Manual
-
-Last Updated: 2019-07-01
+We aim to be an inclusive, diverse, safe, and productive organization that improves the justice system in the United States.
+   
 
 ## Our Mission
 
 The short version of our mission is:
 
-> To make the legal system more fair and efficient.
+> To make the legal system more competitive, fair, and efficient.
 
 The long, official, IRS-approved version of our mission is:
 
@@ -36,7 +36,7 @@ The long, official, IRS-approved version of our mission is:
     grants and other financial support to educational institutions,
     foundations, and other organizations exclusively for educational,
     charitable, and scientific purposes as allowed by law.
-    
+
 
 ## Creating a Safe, Productive Workplace
 
@@ -47,13 +47,6 @@ Free Law Project is committed to equal employment opportunity.
 We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, national origin, age, disability (physical or mental), genetic information, sex, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity or expression, parental status, marital status, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
 
 We are committed to providing equal employment opportunities to qualified individuals with disabilities. This may include providing reasonable accommodation where appropriate in order for an otherwise qualified individual to perform the essential functions of the job.
-
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
-
-THIS ENTIRE DOCUMENT IS A DRAFT
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
 
 
 ### Harassment, Bullying, Violence in the Workplace Policy
@@ -72,7 +65,7 @@ In addition to prohibiting harassment in these forms, we also consider the follo
 
  - Touching people without their affirmative consent.
 
- - Repeatedly and unnecessarily disrupting formal or informal gatherings or meetings, whether in person or within a chatroom setting.
+ - Repeatedly and unnecessarily disrupting formal or informal gatherings or meetings, whether in person or within a chat room setting.
 
  - Retaliating against anyone who files a complaint that someone has violated the provisions of this manual.
 
@@ -101,28 +94,30 @@ The organization will investigate all such reports as confidentially as possible
 
 ### Drug & Alcohol Policy
 
-The unlawful or improper presence or use of controlled substances or alcohol in the workplace presents a danger to all employees. All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
+The unlawful or improper presence or use of controlled substances or alcohol in the workplace can present a danger to all employees. All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
 
 
-### Conflict of Interest
-
-Employees must never use their positions with the organization for private gain, to advance personal interests or to obtain favors or benefits for themselves, members of their families or any other individuals, corporations, or business entities. Furthermore, employees should avoid situations where a *perception* of a conflict of interest could be created.
-
-Our conflict of interest and ethics policies can be found on our website: 
-
-https://free.law/pdf/policies/005-COI_and_Ethics_policy.pdf
-
-
-### Professional Conduct
+## Professional Conduct
 
 Our organization adheres to the highest legal and ethical standards applicable in our line of work. The organization's business is conducted in strict observance of both the letter and spirit of all applicable laws and the integrity of each employee is of utmost importance.
 
 
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+### Client Confidentiality
 
-THIS ENTIRE DOCUMENT IS A DRAFT
+In our work, we often work with legal companies, journalists, and academic researchers. Each has distinct confidentiality interests that we must treat with the highest respect. Our reputation and our mission depends on our ability not to disclose our clients confidential information. 
 
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+Be prepared to be asked if you are working with an organization or if you know what an organization's next product will be. If asked, remember that the person asking you will judge your honesty and that of Free Law Project by how much you disclose. The less you reveal, the more they will trust you with their confidential information in the future. This builds trust, and allows us to further our mission.
+
+Do **not** disclose confidential client information.
+
+
+### Conflict of Interest
+
+Employees must not use their positions with the organization for private gain, to advance personal interests or to obtain favors or benefits for themselves, members of their families or any other individuals, corporations, or business entities. Furthermore, employees should avoid situations where a *perception* of a conflict of interest could be created.
+
+Our conflict of interest and ethics policies can be found on our website: 
+
+https://free.law/pdf/policies/005-COI_and_Ethics_policy.pdf
 
 
 ### Contact with the Media
@@ -149,22 +144,27 @@ We also encourage individual employees to speak to members of the media about an
 ## Benefits & Compensation
 
 ### Payroll
-Administered twice monthly, on the 15th and last day of each month, via direct deposit. If either date falls on a weekend, payroll administration will occur on the Friday immediately prior.
+Administered every other Friday, via direct deposit.
 
 The organization's Executive Director is available to help with any payroll or benefits questions.
 
-### Medical, Dental, and Vision Coverage
-We receive health and dental coverage and pharmacy benefits through an employer-sponsored health insurance plan. The company pays 80% of the premium cost of the plan. The employee pays 20% through payroll deduction. Enrollment in the benefit plans is optional.
+### Benefits
+All employees are encouraged to enroll in pre-tax 401(k) retirement plans and 529 college savings plans. These are available upon request.
 
-Employees will receive specific benefit enrollment information during their onboarding process.
+Life insurance and flexible spending accounts for dependent care and health care spending are available upon request.
+
+Unfortunately, we currently do not offer health, vision, or dental benefits due to the immense complexity of offering them in an organization of our size and geographic distribution. We do, however, adjust salaries to attempt to compensate for this deficiency.
 
 ### Performance Assessments
-Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. We are in the process of determining the best methodology to carry out this commitment and will update this manual when a determination is made.
+Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. Each employee will be assessed twice per year. 
+
+We are in the process of determining the best methodology to carry out this commitment and will update this manual when a determination is made.
 
 ### Raises and Bonuses
-Annual cost of living increases will be combined with any merit increases described above. These will be reviewed and approved by the Board of Directors on an annual basis.
+Annual cost of living increases will be combined with any merit increases. These will be reviewed and approved by the Board of Directors on an annual basis.
 
 Additional raises and bonuses may be considered at other times to account for special circumstances, such as extraordinary performance, a change in position and/or an increase in responsibilities.
+
 
 ## Reimbursable Expenses
 
@@ -182,69 +182,59 @@ The organization will reimburse pre-approved, work-related expenses. Any expendi
 Employees are expected to travel economy class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
 
 ### How to File a Reimbursement Request
-You are strongly encouraged to file reimbursement requests as soon as you incur the expenses. Expenses are usually reimbursed within a week of approval and submission. Each reimbursement request must be sent to the Executive Director, who will review, approve, then submit for payment to appropriate person(s) for execution. Each reimbursement request must include:
+You are strongly encouraged to file reimbursement requests as soon as you incur the expenses. Expenses are usually reimbursed within a week of approval and submission. Each reimbursement request must be emailed to the Executive Director, who will review, approve, then submit for payment to appropriate person(s) for execution. Each reimbursement request must include:
 
 * An image or PDF file that containing receipts for each of the expenses for which you are seeking reimbursement.
 * A classification of each expense in the one of the following categories: `Travel - In Town`, `Travel - Out of Town`, `Conference`, `Food and Drink`, `Supplies`, `Subscriptions`, or `Event Hosting`.
 * A short note for describing each expense (e.g. who, what, where, when, why)
 
 ## Professional Development
-We strongly encourage employees to explore professional development options. The organization will endeavor to set aside an amount equal to 2.0% (at minimum) of its planned operating budget to fund professional development activities. These funds shall be distributed as equitably as possible to all organization employees.
+We strongly encourage employees to explore professional development options.
 
 Potential professional development opportunities include, but are not limited to:
 * Attending relevant professional conferences.
 * Tuition for relevant classes.
 * Books on relevant topics.
 
-To seek approval for a professional development opportunity, please submit the following items to your supervisor, who will review and discuss them with you, and if requiring an expenditure greater than $999, share them with the Board of Directors for approval.
+To seek approval for a professional development opportunity, please submit the following items to your supervisor, who will review and discuss them with you, and if requiring an expenditure greater than $999, share them with the Board of Directors for approval:
+
 * A description of the professional development opportunity, how it would support your growth, and how it would benefit the organization.
+
 * The total cost of the opportunity, and any relevant payment dates and methods.
+
 * The time the opportunity would require (dates, times, including travel) as well as the location.
-
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
-
-REMINDER: THIS ENTIRE DOCUMENT IS A DRAFT
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
 
 
 ## Schedule, Hours & Vacation
 
 ### Our Schedule
 
-Employees are expected to work 40 hours per week, but we are flexible on where and when that work gets done.
+Employees are expected to work 40 hours per week, but we are flexible on where and when that work gets done, provided timezones do not interfere with your ability to communicate with the rest of the organization. 
 
-Employees are expected to attend all meetings to which they have been invited as a "required" participant. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM in their local timezone.
+Employees are expected to attend all meetings to which they have been invited as a "required" participant.
 
 Employees are able to work from home and/or remotely and the organization will make all efforts to ensure a comparable work experience regardless of where an employee is located.
 
 Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your work calendar so your colleagues will know that you are not available.
 
+
 ### Vacation & Leave Policy
-We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.
+We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/).
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.
 
-*Employees should take a minimum of two weeks of paid vacation per year, totaling 10 business days.*
+We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we encourage enjoying life outside of the office.
 
-For personal, medical, or family leave, each employee is encouraged to take the current [Family and Medical Leave Act](https://www.dol.gov/general/topic/benefits-leave/fmla) maximum.
-
-For maternity and paternity leave, employees are encouraged to take up to 16 weeks of leave.
+We encourage employees to **use** their vacation time.
 
 #### Taking Leave
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. All extended periods of leave must be discussed with the Executive Director.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the your work calendar and the team should be notified.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified.
+
 
 ### Sick Days
-Please notify the team if you are sick and need to take the day off. Even if you are feeling well enough to work, please work from home until you are completely recovered, to avoid spreading illness through our small office.
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
-
-REMINDER: THIS ENTIRE DOCUMENT IS A DRAFT
-
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
 
 
 ## How We Work
@@ -254,61 +244,26 @@ We will set you up with an organizational Google Suite account. This will provid
 
 Please use your organizational email address for all work-related correspondence, scheduling, etc. Personal accounts should not be used for work-related activities.
 
-You will be granted access to our shared password manager. All passwords that need to be shared with the organization must be shared using this manager; passwords should not be shared via email or other insecure methods.
-
 ### Calendars
-Please keep your availability updated on your Google calendar account associated with the organization - please don't use your personal account. Please record any meetings, vacation time, appointments, and anything else that your teammates might need to schedule around. Feel free to schedule meetings with other coworkers on the Google calendar.
+Please keep your availability updated on your Google calendar account associated with the organization - please don't use your personal account. Please record any meetings, vacation time, appointments, and anything else that your teammates might need to schedule around. Schedule meetings with other coworkers on the Google calendar.
 
 ### Regular Meetings
 All meetings must be held in a manner that allows for full participation of all employees, regardless of such individual variables such as geographic location.
 
-#### Daily Standup(s)
-To better coordinate organizational or product development efforts, one or more daily standups may be scheduled, each lasting no longer than 15 minutes.
-
-The purpose of the daily standup is to provide a short summary of what you focused on the previous day, what you are planning on focusing on today, and, critically, identification of any obstacles or blockers that may prevent you from completing a task.
-
-Once each participant has completed their summary, the standup may be ended. Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
 
 #### Book Clubs, "Family" Meals, and Other Informal Rituals
 We are a small, close knit team. To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee may sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.
 
 As in any endeavor, it is critical that any informal gathering or group clearly define its purpose and the expectation placed upon its participants.
 
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
 
-DID WE MENTION? THIS ENTIRE DOCUMENT IS A DRAFT
+## Compliance Notices
 
-## DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
+State and federal agencies require that we share posters with our employees that informs them of their rights. We keep these posters in this repository in the "posters" directly, and post some additional information below. 
 
+Please review your rights.  
 
-### Tools & Services We Use
-We utilize an ever-changing array of tools and platforms to get our work done. Employees are expected to familiarize themselves with all tools that are applicable to their work areas. Trial and adoption of new tools is encouraged and should be done in a collaborative manner with your colleagues to encourage operational alignment and discourage tool siloing.
-
-We do our best to keep our [tool and platform](tools.md)] list up to date.
-
-## Recommended Reading
-* Remote: Office Not Required ( specific chapters )
-* How to Collaborate Remotely
-* Beware the Dragons
-* Managing Remote Workers
-* Life as a Remote Worker
-* Dealing with Excuses
-* The Lean Startup
-* Don't Make Me Think
-
-
-
-
-DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
-
-# Payday Notice
-
-In compliance with California Labor Code sections 204, 204A, 204B, 205, and 205.5, regular paydays for employees shall be as follows:
-
-XXXXXX
-
-
-# Emergency Phone Numbers
+### Emergency Phone Numbers
 
 In compliance with Title 8 §1512(e) of the California Code of Regulations, the following are to be used in the case of emergency:
 
@@ -319,15 +274,8 @@ In compliance with Title 8 §1512(e) of the California Code of Regulations, the 
  - Police: 911
  - Cal/OSHA: (800) 963-9424
 
-DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT ~ DRAFT
 
-
-# Workers compensation insurance carrier
-
-TODO: States the name of the employer's current compensation insurance carrier, or the fact that the employer is self-insured. Obtained from the employer's workers' compensation insurance carrier. 
-
-
-# Election Day Procedures
+### Election Day Procedures
 
 In compliance with [Division 14, Chapter 1, §14000 of the CA state code][code]:
 
