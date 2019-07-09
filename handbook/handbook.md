@@ -11,7 +11,7 @@
 This handbook aims to memorialize the policies, goals, and culture of Free Law Project. All volunteers are asked to agree to this policy, and all employees must agree to it as a term of their employment contract.
 
 We aim to be an inclusive, diverse, safe, and productive organization that improves the justice system in the United States.
-   
+
 
 ## Our Mission
 
@@ -37,6 +37,27 @@ The long, official, IRS-approved version of our mission is:
     foundations, and other organizations exclusively for educational,
     charitable, and scientific purposes as allowed by law.
 
+
+## Free Law Project History (by Michael Lissner)
+
+The genesis of Free Law Project was a small idea lobbed by Brian Carver while he was a professor at [UC Berkeley School of Information][ischool], and I was a student in the graduate program there. One of the things I had to do to graduate was a big final project, and as I was fishing around for ideas, Brian suggested that somebody make an alert system for circuit court opinions. I took the idea and ran with it, building [the first version of CourtListener][cl1]. It had crawlers for all circuit courts and SCOTUS, and it would send alerts to users based on their interests. 
+
+From there, things grew steadily:
+
+ - We had a database of opinions we were collecting. Why not add opinions from other sources?
+ - If we had all these opinions, why not launch the first-ever API for them?
+ - The RECAP Project, originally started at [Priceton's Center for Information Technology Policy][citp], looked like it needed a new maintainer. What if we took over?
+ - Circuit Courts were doing a lousy job posting and hosting their oral argument recordings. Could we do better?
+ - There was no open database of judges and their campaign finance contributions. Would Knight Foundation fund us to make one?
+ 
+Little by little, we added features and built the organization itself. In 2014, Brian and I submitted the paperwork, and the IRS [granted us 501(c)(3) status][status]. Free Law Project was officially a non-profit. 
+ 
+We've been growing and expanding ever since.
+
+[ischool]: https://www.ischool.berkeley.edu
+[cl1]: https://web.archive.org/web/20100328140211/http://courtlistener.com/ 
+[citp]: https://citp.princeton.edu/
+[status]: https://free.law/pdf/incorporation/006-non-profit-status-letter-redacted.pdf
 
 ## Staff & Boards
 
