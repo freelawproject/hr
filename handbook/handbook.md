@@ -132,7 +132,7 @@ Additional raises and bonuses may be considered at other times to account for sp
 ## Reimbursable Expenses
 
 ### What's Covered
-The organization will reimburse pre-approved, work-related expenses. Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director. Sub-$1,000 reimbursable expenses which do not require Board approval include but are not limited to:
+All expenses must be pre-approved. Pre-approved, work-related expenses less than $1,000 will be reimbursed. Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director. Sub-$1,000 reimbursable expenses which do not require Board approval include but are not limited to:
 
 * Travel between work meetings and the office.
 * Travel to, from, and during conferences and events.
