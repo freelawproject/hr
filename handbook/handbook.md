@@ -235,7 +235,7 @@ The purpose of this policy is to ensure that all employees shall be free from ha
 
 While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
 
-For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm).
+For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm) and the [California Department of Fair Employment and Housing](https://www.dfeh.ca.gov/resources/frequently-asked-questions/employment-faqs/sexual-harassment-faqs/).
 
 In addition to prohibiting harassment in these forms, we also consider the following unacceptable:
 
