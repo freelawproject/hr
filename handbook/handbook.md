@@ -269,6 +269,8 @@ Any employee who believes they have been harassed or believes they have witnesse
 
 The organization will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
 
+We also recognize that sometimes such reports may be difficult to make, or may come at a real or perceived personal cost. We believe that situations are often easier to resolve when all parties are known, but we will accept anonymous reports, and will treat them according to our standard resolution policies. The choice of anonymity of the reporter will be respected to the extent possible, and recipients of anonymous reports will not attempt to investigate or unmask the identity of the reporter unless legally bound to do so.
+
 
 ### Drug & Alcohol Policy
 
