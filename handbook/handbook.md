@@ -80,9 +80,9 @@ Our organization adheres to the highest legal and ethical standards applicable i
 
 In our work, we often work with legal companies, journalists, and academic researchers. Each has distinct confidentiality interests that we must treat with the highest respect. Our reputation and our mission depends on our ability not to disclose our clients confidential information. 
 
-Be prepared to be asked if you are working with an organization or if you know what an organization's next product will be. If asked, remember that the person asking you will judge your honesty and that of Free Law Project by how much you disclose. The less you reveal, the more they will trust you with their confidential information in the future. This builds trust, and allows us to further our mission.
+Be prepared to be asked if you are working with an organization or if you know what an organization's next product will be. You may be asked by somebody with extensive experience interviewing witnesses. If asked, remember that the person asking you will judge your honesty and that of Free Law Project by how much you disclose. The less you reveal, the more they will trust you with their confidential information in the future. This builds trust, and allows us to further our mission.
 
-Do **not** disclose confidential client information.
+Do **not** disclose confidential client information. This is a critically important element of our work, and any disclosure, even inadvertent, may result in immediately disciplinary action, up to and including your termination. 
 
 
 ### Conflict of Interest
