@@ -2,6 +2,7 @@
 
 ## Version history
 
+ -v0.99, 2019-09-22 — Updates following legal review, and once again proposed to the board. Again, this version is not yet applicable to any employee, and remains open to suggestions and corrections.
  - v0.9.3, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
  - v0.9, 2019-07-01 - A copy from https://github.com/opengovfoundation/hr-manual
  
@@ -46,7 +47,7 @@ From there, things grew steadily:
 
  - We had a database of opinions we were collecting. Why not add opinions from other sources?
  - If we had all these opinions, why not launch the first-ever API for them?
- - The RECAP Project, originally started at [Priceton's Center for Information Technology Policy][citp], looked like it needed a new maintainer. What if we took over?
+ - The RECAP Project, originally started at [Princeton's Center for Information Technology Policy][citp], looked like it needed a new maintainer. What if we took over?
  - Circuit Courts were doing a lousy job posting and hosting their oral argument recordings. Could we do better?
  - There was no open database of judges and their campaign finance contributions. Would Knight Foundation fund us to make one?
  
@@ -121,7 +122,7 @@ Unfortunately, we currently do not offer health, vision, or dental benefits due 
 ### Performance Assessments
 Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. Each employee will be assessed twice per year. 
 
-We are in the process of determining the best methodology to carry out this commitment and will update this manual when a determination is made.
+We are in the process of determining the best way to carry out this commitment and will update this manual when a plan is made.
 
 ### Raises and Bonuses
 Annual cost of living increases will be combined with any merit increases. These will be reviewed and approved by the Board of Directors on an annual basis.
