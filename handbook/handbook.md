@@ -192,7 +192,9 @@ We encourage employees to **use** their vacation time.
 #### Taking Leave
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. All extended periods of leave must be discussed with the Executive Director.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified. 
+
+Once approved by your supervisor, leave must be logged [in the Google Form for this purpose](https://forms.gle/2zzviZvE3rsQdcp98).
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
