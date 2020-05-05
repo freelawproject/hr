@@ -62,8 +62,6 @@ After the paid parental leave (and any short-term disability leave for employees
 
 The company will maintain all benefits for employees during the paid parental leave period as if they were taking any other company paid leave such as paid vacation leave or paid sick leave. As such, paid time off and vacation days will not accrue while employees are on a parental leave.
 
-If a company holiday occurs while the employee is on paid parental leave, such day will be charged to holiday pay; however, such holiday pay will not extend the total paid parental leave entitlement.
-
 An employee who takes paid parental leave that does not qualify for FMLA leave will be afforded the same level of job protection for the period of time that the employee is on paid parental leave as if the employee were on FMLA-qualifying leave.
 
 Employees must provide his or her supervisor with notice of the request for leave at least 30 days prior to the proposed date of the leave (or if the leave was not foreseeable, as soon as possible).
