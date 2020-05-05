@@ -31,17 +31,23 @@ In addition, employees must meet one of the following criteria:
 
 ## Benefit
 
-This policy will run concurrently with Family and Medical Leave Act (FMLA) leave, as applicable.
+### Paid Leave
 
-Eligible employees will receive a maximum of **three** weeks of paid parental leave per birth, adoption or placement of a child/children. Multiple births, adoptions or placements (e.g., the birth of twins or adoption of siblings) does not increase the total amount of paid parental leave granted for that event. In addition, in no case will an employee receive more than **six** weeks of paid parental leave in a rolling 12-month period.
+Eligible employees that have been employed for at least **two** years will receive a maximum of **five** weeks of paid parental leave per birth, adoption, or placement of a child/children.  Eligible employees that have been employed for at least **nine months** will receive a maximum of **three** weeks of paid parental leave per birth, adoption, or placement of a child/children.
 
-Each week of paid parental leave is compensated at 100 percent of the employee’s regular salary according to our normal payment schedule.
+Multiple births, adoptions or placements (e.g., the birth of twins or adoption of siblings) does not increase the total amount of paid parental leave granted for that event. In addition, in no case will an employee receive more than **seven** weeks of paid parental leave in a rolling 12-month period.
+
+Paid parental leave is compensated at 100 percent of the employee’s regular salary according to our normal payment schedule.
 
 Approved paid parental leave may be taken at any time during the **nine-month** period immediately following the birth, adoption or placement of a child with the employee, and need not be contiguous.
 
 In the event of an employee who has given birth, paid parental leave will commence at the conclusion of any short-term disability leave/benefit provided to the employee for the employee’s own medical recovery following childbirth.
 
 Upon termination of the individual’s employment at the company, they will not be paid for any unused paid parental leave for which they were eligible.
+
+### Unpaid Leave
+
+After taking paid leave, eligible employees may take additional unpaid leave, not to exceed twelve weeks of combined paid and unpaid leave.
 
 
 ## Coordination with Other Policies
