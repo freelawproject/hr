@@ -27,9 +27,13 @@ In addition, employees must meet one of the following criteria:
  - Be a spouse or committed partner of a woman who has given birth to a child.
 
  - Have adopted a child or been placed with a foster child (in either case, the child must be age 17 or younger). The adoption of a new spouse's child is excluded from this policy.
- 
+
 
 ## Benefit
+
+Eligible employees may take both paid and unpaid leave after an eligible event. 
+
+Upon an employee's return, Free Law Project will make reasonable effort to return that employees to the same or a similar position as before their leave, subject to staffing and business requirements.
 
 ### Paid Leave
 
@@ -56,7 +60,7 @@ Paid parental leave taken under this policy will run concurrently with leave und
 
 After the paid parental leave (and any short-term disability leave for employees giving birth) is exhausted, the balance of FMLA leave (if applicable) will be compensated through employees’ accrued sick and vacation time. Upon exhaustion of accrued sick and vacation time, any remaining leave will be unpaid leave.
 
-The company will maintain all benefits for employees during the paid parental leave period just as if they were taking any other company paid leave such as paid vacation leave or paid sick leave.
+The company will maintain all benefits for employees during the paid parental leave period as if they were taking any other company paid leave such as paid vacation leave or paid sick leave. As such, paid time off and vacation days will not accrue while employees are on a parental leave.
 
 If a company holiday occurs while the employee is on paid parental leave, such day will be charged to holiday pay; however, such holiday pay will not extend the total paid parental leave entitlement.
 
