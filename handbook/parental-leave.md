@@ -37,9 +37,9 @@ Upon an employee's return, Free Law Project will make reasonable effort to retur
 
 ### Paid Leave
 
-Eligible employees that have been employed for at least **two** years will receive a maximum of **five** weeks of paid parental leave per birth, adoption, or placement of a child/children.  Eligible employees that have been employed for at least **nine months** will receive a maximum of **three** weeks of paid parental leave per birth, adoption, or placement of a child/children.
+Eligible employees that have been employed for at least **18 months** will receive a maximum of **five weeks** of paid parental leave per birth, adoption, or placement of a child/children.  Eligible employees that have been employed for at least **six months** will receive a maximum of **three weeks** of paid parental leave per birth, adoption, or placement of a child/children.
 
-Multiple births, adoptions or placements (e.g., the birth of twins or adoption of siblings) does not increase the total amount of paid parental leave granted for that event. In addition, in no case will an employee receive more than **seven** weeks of paid parental leave in a rolling 12-month period.
+Multiple births, adoptions or placements (e.g., the birth of twins or adoption of siblings) does not increase the total amount of paid parental leave granted for that event. In addition, in no case will an employee receive more than **seven weeks** of paid parental leave in a rolling 12-month period.
 
 Paid parental leave is compensated at 100 percent of the employee’s regular salary according to our normal payment schedule.
 
