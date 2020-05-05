@@ -201,6 +201,10 @@ Once approved by your supervisor, leave must be logged [in the Google Form for t
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
 
 
+### Parental Leave
+
+Please see our [Parental Leave policy](https://github.com/freelawproject/hr/blob/master/handbook/parental-leave.md) for details.
+
 ## How We Work
 
 ### Email Accounts & Document Sharing
