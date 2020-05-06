@@ -2,13 +2,13 @@
 
 ## Version history
 
-### Upcoming
-
- - v0.9 - First draft. This version is not yet applicable to any employee, but is open to suggestions and corrections.
- 
 ### Current
 
- - Beta 1: General sketch of the policy
+ - v0.9 - First draft. This version is not yet applicable to any employee, but is open to suggestions and corrections.
+
+### Previous
+
+- Beta 1: General sketch of the policy
 
 
 ## Overview
@@ -18,13 +18,13 @@ In order to assist and support new parents with balancing their work and family,
  
 ## Eligibility
 
-Eligible employees are entitled to paid parental leave following the birth, adoption or foster care placement of a child. To be eligible for paid parental leave, you must have been employed by Free Law Project as a full time, salaried, employee for at least nine months ​​when the parental leave period begins. These nine months need not be contiguous.
+Eligible employees are entitled to paid parental leave following the birth, adoption or foster care placement of a child. To be eligible for paid parental leave, you must have been employed by Free Law Project as a full time, salaried, employee for at least six months when the parental leave period begins. These six months need not be contiguous.
 
 In addition, employees must meet one of the following criteria:
 
+ - Become the parent or committed partner of a newborn (including through surrogacy).
+ 
  - Have given birth to a child.
-
- - Be a spouse or committed partner of a woman who has given birth to a child.
 
  - Have adopted a child or been placed with a foster child (in either case, the child must be age 17 or younger). The adoption of a new spouse's child is excluded from this policy.
 
