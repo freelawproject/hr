@@ -73,3 +73,4 @@ Employees must provide his or her supervisor with notice of the request for leav
  - [Public Counsel template](http://www.publiccounsel.org/tools/publications/files/0251.pdf)
  - [Venderbilt parental leave policy](https://hr.vanderbilt.edu/policies/ParentalLeave.php)
  - [Pledge Parental Leave sample policy](https://pledgepl.org/files/PledgeParentalLeave-SampleParentalLeavePolicy-1.0.pdf)
+ - [World at Work survey re parental leave](https://www.worldatwork.org/workspan/articles/the-current-state-of-pto-and-paid-parental-leave-programs-in-the-u-s)
