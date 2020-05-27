@@ -8,6 +8,10 @@ Included you'll find our:
   
  - Regulatory posters — please review these to learn your rights
  
+ - Our parantal leave policy
+ 
  - A reference to our whistle blower policy
  
 We may add other things in the future. If you are an FLP employee or contractor, we suggest you subscribe to this repository for future updates (though important updates will surely be announced widely).
+
+The wiki may be used for other HR-related topics, though not for official policies.
