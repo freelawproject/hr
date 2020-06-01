@@ -2,7 +2,8 @@
 
 ## Version history
 
- - v1.01, 2019-12-05 — Adds link to the leave policy section for logging leave.
+ - v1.0.2, 2020-06-01 — Staff update
+ - v1.0.1, 2019-12-05 — Adds link to the leave policy section for logging leave.
  - v1.0, 2019-09-30 — Final version approved by board, without changes since 0.99 version.
  - v0.99, 2019-09-22 — Updates following legal review, and once again proposed to the board. Again, this version is not yet applicable to any employee, and remains open to suggestions and corrections.
  - v0.9.3, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
@@ -67,6 +68,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Michael Lissner, Co-Founder and Executive Director
 * Bill Palin, Open Data Backend Developer
+* Andrea Ekey, 2020 Summer Intern
 
 ### Board of Directors
 * Brian Carver
