@@ -2,7 +2,8 @@
 
 ## Version history
 
- - v1.0.2, 2020-06-01 — Staff update
+- v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
+- v1.0.2, 2020-06-01 — Staff update
  - v1.0.1, 2019-12-05 — Adds link to the leave policy section for logging leave.
  - v1.0, 2019-09-30 — Final version approved by board, without changes since 0.99 version.
  - v0.99, 2019-09-22 — Updates following legal review, and once again proposed to the board. Again, this version is not yet applicable to any employee, and remains open to suggestions and corrections.
@@ -186,7 +187,14 @@ Employees are able to work from home and/or remotely and the organization will m
 Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your work calendar so your colleagues will know that you are not available.
 
 ### Vacation & Leave Policy
-We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/).
+
+We are closed on:
+
+1. All [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/) except for Columbus day;
+
+2. [Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day); and
+
+3. [Juneteenth](https://en.m.wikipedia.org/wiki/Juneteenth).
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we encourage enjoying life outside of the office.
 
