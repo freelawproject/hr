@@ -38,7 +38,7 @@ Contributions may be changed on no more than a monthly basis.
 
 In 2021, the maximum an individual can contribute is $13,500 unless over the age of 50 (in which case other details apply).
 
-To start or change your contributions, copy/paste the snippet below and send it to hr@free.law:
+To start or change your contributions, copy/paste the snippet below and send it to mike@free.law:
 
 > Subject to the requirements of the SIMPLE IRA plan of Free law Project, I authorize $_________ to be witheld from my pay for each pay period and contributed to my SIMPLE IRA account as a reduction contribution.
 >
@@ -52,6 +52,40 @@ To start or change your contributions, copy/paste the snippet below and send it 
 >
 >
 > Date: ________________________________
+
+Once we receive the above notification from you, we will ask the bank to reflect your contributions at the next pay period.
+
+# Q&A
+
+Q: How do I set up my personal account?
+
+A: XXX
+
+Q: How do I invest my contributions?
+
+A: Simply log into your account with American Century Investments, and you can make your allocations via their website. If you need help, you can call them. They currently have a small fee per fund that you invest in, but check their fee schedule for details.
+
+Q: I prefer bank XYZ. Can we use them?
+
+A: Probably not. In setting this up, we researched the following:
+
+ - *Schwab* doesn't do auto-investment, so you have to re-invest your contribution after every pay period or else it sits in your cash account where it will probably lose money due to inflation.
+
+ - *Fidelity & Vanguard* have dumb administrative processes that require that somebody do busy work before every pay period.
+
+ - *Nationwide, Union Bank & Lincoln Financial* don't do SIMPLE IRAs.
+
+ - *ADP* charges about $500 in fees each year.
+
+Anyway, point being that we're open to considering it, maybe, but most of the banks don't fit us or have bad offerings.
+
+Q: Why not do a 403(b) plan?
+
+A: Because they're complicated and expensive. For example, Vanguard offers such a plan, but it would cost FLP $750/year + $90/employee. On top of that, it takes 6-8 weeks to set up, FLP has to select the available funds and make a "plan document." Even once all that is done and paid for, you have to do busy work every pay period just like their SIMPLE IRA plan. Fidelity won't even talk to you about a 403(b) plan until you've got $75M in assets.
+
+Q: Something else?
+
+A: Email mike@free.law
 
 
 [simple]: https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan
