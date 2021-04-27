@@ -69,7 +69,10 @@ We've been growing and expanding ever since.
 ### Staff
 * Michael Lissner, Co-Founder and Executive Director
 * Bill Palin, Open Data Backend Developer
+
+### Previous Staff
 * Andrea Ekey, 2020 Summer Intern
+
 
 ### Board of Directors
 * Brian Carver
@@ -118,7 +121,7 @@ Administered every other Friday, via direct deposit.
 The organization's Executive Director is available to help with any payroll or benefits questions.
 
 ### Benefits
-All employees are encouraged to enroll in pre-tax 401(k) retirement plans and 529 college savings plans. These are available upon request.
+All employees are encouraged to enroll in pre-tax Simple IRA retirement plans and 529 college savings plans. Please see our [IRA documentation](https://github.com/freelawproject/hr/blob/master/handbook/simple-ira.md) for details on that.
 
 Life insurance and flexible spending accounts for dependent care and health care spending are available upon request.
 
