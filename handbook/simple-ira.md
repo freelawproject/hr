@@ -22,7 +22,7 @@ Nothing in this document is tax, legal, or financial advice, sorry.
 
 ## Overview
 
-In general retirement plans allow employers to send some of your compensation directly to a retirement account you create account before you pay taxes on it, instead of depositing it in your normal personal account. This means that money that would normally go towards taxes can instead sit in a retirement account making money. If you have a retirement account available to you, it is usually a very good idea to take advantage of it. Generally speaking, you will have more money when you retire.
+In general, retirement plans allow employers to send some of your compensation directly to a retirement account you create before you pay taxes on it, instead of depositing it in your normal personal account. This means that money that would normally go towards taxes can instead sit in a retirement account making money. If you have a retirement account available to you, it is usually a very good idea to take advantage of it. Generally speaking, you will have more money when you retire.
 
 Many for-profit organizations have 401(k) plans for this purpose. Non-profits like ours can have something similar called a 403(b) plan, but both of those plan types require that employers pay big fees to the bank that provides the service. They are also very difficult to administer (see FAQs below) — They're for bigger companies than ours. For organizations like ours, there's something called a [SIMPLE IRA Plan][simple], that is actually quite simple and works similarly, with the main downside being that it has a lower per-year maximum contribution rate.
 
@@ -42,7 +42,25 @@ Contributions may be changed on no more than a monthly basis.
 
 In 2021, the maximum an individual can contribute is $13,500 unless over the age of 50 (in which case other details apply).
 
-To start or change your contributions, copy/paste the snippet below and send it to mike@free.law:
+
+## Getting Started as an Employee
+
+The first thing you have to do is create an account with our plan provider, American Century Investments.
+
+To do that:
+
+1. Complete [the form here][setup]. It will ask you a couple tricky questions. Here are the answers:
+
+     - Yes, FLP has designed American Century Investment as the Designated Financial Institution.
+       
+     - Our plan ID is: 153337001
+    
+2. After you have completed the form above, you'll have to wait two days for them to get things set up. Then, you can create an online [here][register]. Don't forget to set up 2FA!
+
+[setup]: https://www.americancentury.com/content/direct/en/insights/workplace-retirement/plan-participants/simple-ira.html#enroll
+[register]: https://www.americancentury.com/sd/registration/start
+
+3. Once you have your online account set up, you'll need to start your contributions (you can later use this same approach to adjust them). To do so, copy/paste the snippet below and send it to mike@free.law:
 
 > Subject to the requirements of the SIMPLE IRA plan of Free law Project, I authorize $_________ to be withheld from my pay for each pay period and contributed to my SIMPLE IRA account as a reduction contribution.
 >
@@ -60,7 +78,7 @@ To start or change your contributions, copy/paste the snippet below and send it 
 Once we receive the above notification from you, we will ask the bank to reflect your contributions at the next pay period or as soon as possible.
 
 
-# Q&A
+## Q&A
 
 Q: How do I set up my personal account?
 
