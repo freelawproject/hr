@@ -111,4 +111,23 @@ Q: Something else?
 A: Email mike@free.law
 
 
+## For the Plan Administrator
+
+On the employer side, you can tweak things via the administrator account. You can [log into it here][admin].
+
+[admin]: https://www.americancentury.com/info/psa/
+
+### Adding a new contribution
+
+This has to be done in two places. First, go to the link above, then Payroll --> Add New Payroll --> Systematic. That'll take you to a wizard. In the first step of the wizard, unckeck the boxes under "Compliance testing" and under "Additional items." Do check "Employee Deferral" and "Employer Match". When you submit that form, it'll show all employees, and you can tweak their deferments.
+
+After adding a new deferment to AMI, you have to mirror it over in Gusto. To do so, pull up the employee, go to their Benefits tab, and add it. That should do it. 
+
+
+### Calculating deferments
+
+There is a spreadsheet — "ira-contribution-master-file.xlsx" — with all of the contribution amounts in the HR folder. Add the employee's compensation there to calculate the 3% match. Remember, it's a match of their contribution up to 3% of their compensation. The spreadsheet has a calculator for this. 
+
+
+
 [simple]: https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan
