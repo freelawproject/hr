@@ -2,8 +2,9 @@
 
 ## Version history
 
-- v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
-- v1.0.2, 2020-06-01 — Staff update
+ - v1.2.0, 2021-10-12 - Add security sections
+ - v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
+ - v1.0.2, 2020-06-01 — Staff update
  - v1.0.1, 2019-12-05 — Adds link to the leave policy section for logging leave.
  - v1.0, 2019-09-30 — Final version approved by board, without changes since 0.99 version.
  - v0.99, 2019-09-22 — Updates following legal review, and once again proposed to the board. Again, this version is not yet applicable to any employee, and remains open to suggestions and corrections.
@@ -219,6 +220,24 @@ Please notify the team if you are sick and need to take the day off. All employe
 Please see our [Parental Leave policy](https://github.com/freelawproject/hr/blob/master/handbook/parental-leave.md) for details.
 
 ## How We Work
+
+### Software Security
+
+1. Use a password manager. 1Password, BitWarden, and LastPass are all fine.
+
+2. In general, do not use passwords you can memorize. Some exceptions might be for logging into laptops or servers (where you have 2FA configured).
+
+3. Whenever possible, use two-factor authentication (2FA). If a system offers it, use it.
+
+4. Keep all your systems updated at all times. Always apply security updates as quickly as possible.
+
+5. Use a strong password on your laptop and encrypt your disk.
+
+
+### Physical Security
+
+The nature of our work puts at some personal risk. We place personal records online for millions of people, some of whom may not be safe. Do not share personal information like the address of the FLP headquarters or phone number in public locations or with people that you do not trust. 
+
 
 ### Email Accounts & Document Sharing
 We will set you up with an organizational Google Suite account. This will provide you access to all the basic necessities like email, calendar, and shared storage.
