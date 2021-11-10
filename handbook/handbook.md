@@ -1,7 +1,8 @@
 # Employee Handbook
 
 ## Version history
-
+ 
+ - v1.3.0, 2021-11-10 - Switch to Gusto for tracking sick and PTO time
  - v1.2.0, 2021-10-12 - Add security sections
  - v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
  - v1.0.2, 2020-06-01 — Staff update
@@ -209,10 +210,12 @@ Employees must inform your supervisor in writing as far in advance as is reasona
 
 To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified. 
 
-Once approved by your supervisor, leave must be logged [in the Google Form for this purpose](https://forms.gle/2zzviZvE3rsQdcp98).
+[Use Gusto to request and track time off](https://app.gusto.com/free-law-project/employee/time_off).
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
+
+[Use Gusto to request and track sick time](https://app.gusto.com/free-law-project/employee/time_off).
 
 
 ### Parental Leave
