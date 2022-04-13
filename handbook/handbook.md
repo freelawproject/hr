@@ -2,6 +2,7 @@
 
 ## Version history
  
+ - v1.4.0, 2022-04-13 - Add referral bonus
  - v1.3.0, 2021-11-10 - Switch to Gusto for tracking sick and PTO time
  - v1.2.0, 2021-10-12 - Add security sections
  - v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
@@ -71,6 +72,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Michael Lissner, Co-Founder and Executive Director
 * Bill Palin, Open Data Backend Developer
+* Alberto Islas, Open Data Developer
 
 ### Previous Staff
 * Andrea Ekey, 2020 Summer Intern
@@ -126,6 +128,8 @@ The organization's Executive Director is available to help with any payroll or b
 All employees are encouraged to enroll in pre-tax Simple IRA retirement plans and 529 college savings plans. Please see our [IRA documentation](https://github.com/freelawproject/hr/blob/master/handbook/simple-ira.md) for details on that.
 
 Life insurance and flexible spending accounts for dependent care and health care spending are available upon request.
+
+Any contractor or employee that refers an applicant to the organization is entitled to a $500 referral bonus if that applicant is hired as a new contractor or employee and continues working full time with the organization for a period of 90 days.
 
 Unfortunately, we currently do not offer health, vision, or dental benefits due to the immense complexity of offering them in an organization of our size and geographic distribution. We do, however, adjust salaries to attempt to compensate for this deficiency.
 
