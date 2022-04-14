@@ -2,6 +2,7 @@
 
 ## Version history
  
+ - v1.4.1, 2022-04-14 - Note max PTO time
  - v1.4.0, 2022-04-13 - Add referral bonus
  - v1.3.0, 2021-11-10 - Switch to Gusto for tracking sick and PTO time
  - v1.2.0, 2021-10-12 - Add security sections
@@ -215,6 +216,8 @@ Employees must inform your supervisor in writing as far in advance as is reasona
 To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified. 
 
 [Use Gusto to request and track time off](https://app.gusto.com/free-law-project/employee/time_off).
+
+There is a maximum of 240 hours of paid time off.
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
