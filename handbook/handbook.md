@@ -2,6 +2,7 @@
 
 ## Version history
  
+ - v1.4.2, 2023-06-18 - Add/clarify mileage reimbursement
  - v1.4.1, 2022-04-14 - Note max PTO time
  - v1.4.0, 2022-04-13 - Add referral bonus
  - v1.3.0, 2021-11-10 - Switch to Gusto for tracking sick and PTO time
@@ -72,10 +73,12 @@ We've been growing and expanding ever since.
 
 ### Staff
 * Michael Lissner, Co-Founder and Executive Director
+* Jenifer Whiston, Director of Philantrhopy
 * Bill Palin, Open Data Backend Developer
 * Alberto Islas, Open Data Developer
 
 ### Previous Staff
+* Heliya Izadpanah, 2022 Summer Intern
 * Andrea Ekey, 2020 Summer Intern
 
 
@@ -151,6 +154,7 @@ Additional raises and bonuses may be considered at other times to account for sp
 All expenses must be pre-approved. Pre-approved, work-related expenses less than $1,000 will be reimbursed. Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director. Sub-$1,000 reimbursable expenses which do not require Board approval include but are not limited to:
 
 * Travel between work meetings and the office.
+* Mileage incurred traveling to events via personal vehicle will be reimbursed according to the [Federal Mileage rates][mileage].
 * Travel to, from, and during conferences and events.
 * Housing and food during conferences and events.
 * Business-meeting meals and drinks.
@@ -356,3 +360,5 @@ In compliance with [Division 14, Chapter 1, §14000 of the CA state code][code]:
 > (b) No more than two hours of the time taken off for voting shall be without loss of pay. The time off for voting shall be only at the beginning or end of the regular working shift, whichever allows the most free time for voting and the least time off from the regular working shift, unless otherwise mutually agreed.
   
 > (c) If the employee on the third working day prior to the day of election, knows or has reason to believe that time off will be necessary to be able to vote on election day, the employee shall give the employer at least two working days’ notice that time off for voting is desired, in accordance with this section.
+
+[mileage]: https://www.irs.gov/tax-professionals/standard-mileage-rates
