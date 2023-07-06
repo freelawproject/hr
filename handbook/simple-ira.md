@@ -13,11 +13,12 @@ Nothing in this document is tax, legal, or financial advice, sorry.
 
 ### Current version
 
- - v1.0, 2021-04-23: Launch of IRA plan availability
+ - v1.0.1, 2023-07-06: Tweaks to admin documentation
+
 
 ### Previous versions
 
- - None yet
+ - v1.0, 2021-04-23: Launch of IRA plan availability
 
 
 ## Overview
@@ -119,7 +120,9 @@ On the employer side, you can tweak things via the administrator account. You ca
 
 ### Adding a new contribution
 
-This has to be done in two places. First, go to the link above, then Payroll --> Add New Payroll --> Systematic. That'll take you to a wizard. In the first step of the wizard, unckeck the boxes under "Compliance testing" and under "Additional items." Do check "Employee Deferral" and "Employer Match". When you submit that form, it'll show all employees, and you can tweak their deferments.
+This has to be done in two places. First, go to the link above, then Payroll --> Add New Payroll --> Systematic. That'll take you to a wizard. In the first step of the wizard, unckeck the boxes under "Compliance testing" and under "Additional items." Do check "Employee Deferral" and "Employer Match". When you submit that form, it'll show all employees (yes, this really should show everybody that's set up), and you can tweak their deferments. 
+
+You will have to re-enter the deferments for all previous employees (See below for calculating this). Payroll is every-other week on Fridays. If there is a deferment on the "Payroll" tab that's held, you may have to delete that so it doesn't *also* happen. It will give you an opportunity to email people with the change. Just send it to yourself.
 
 After adding a new deferment to AMI, you have to mirror it over in Gusto. To do so, pull up the employee, go to their Benefits tab, and add it. That should do it. 
 
@@ -127,7 +130,6 @@ After adding a new deferment to AMI, you have to mirror it over in Gusto. To do 
 ### Calculating deferments
 
 There is a spreadsheet — "ira-contribution-master-file.xlsx" — with all of the contribution amounts in the HR folder. Add the employee's compensation there to calculate the 3% match. Remember, it's a match of their contribution up to 3% of their compensation. The spreadsheet has a calculator for this. 
-
 
 
 [simple]: https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan
