@@ -12,18 +12,18 @@ Nothing in this document is tax, legal, or financial advice, sorry.
  - None planned
 
 ### Current version
-
- - v1.0.1, 2023-07-06: Tweaks to admin documentation
-
+ - v1.1.0, 2023-11-29: Updates and tweaks
 
 ### Previous versions
-
- - v1.0, 2021-04-23: Launch of IRA plan availability
+ - v1.0.1, 2023-07-06: Tweaks to admin documentation
+ - v1.0.0, 2021-04-23: Launch of IRA plan availability
 
 
 ## Overview
 
 In general, retirement plans allow employers to send some of your compensation directly to a retirement account you create before you pay taxes on it, instead of depositing it in your normal personal account. This means that money that would normally go towards taxes can instead sit in a retirement account making money. If you have a retirement account available to you, it is usually a very good idea to take advantage of it. Generally speaking, you will have more money when you retire.
+
+For example, imagine that you get $1000 on a given paycheck, but that the government taxes you at a 30% rate. Without a retirement account, you'll be paid $1000 × 30% = $700 each pay period, which you'll invest. If, instead you use a retirement account, you'll get the whole $1,000 to invest for the next few decades and you'll pay taxes on it later, when you retire and take the money out of the account. By using the retirement account, you have 30% more money to invest.
 
 Many for-profit organizations have 401(k) plans for this purpose. Non-profits like ours can have something similar called a 403(b) plan, but both of those plan types require that employers pay big fees to the bank that provides the service. They are also very difficult to administer (see FAQs below) — They're for bigger companies than ours. For organizations like ours, there's something called a [SIMPLE IRA Plan][simple], that is actually quite simple and works similarly, with the main downside being that it has a lower per-year maximum contribution rate.
 
@@ -41,7 +41,16 @@ Free Law Project will match your contributions up to the legal limit of 3% of yo
 
 Contributions may be changed on no more than a monthly basis.
 
-In 2021, the maximum an individual can contribute is $13,500 unless over the age of 50 (in which case other details apply).
+The [maximums that invividuals can contribute][irs-cr] vary year to year. The following apply unless over age 50 (in which case other details apply):
+
+ - 2024: $16,000/year
+ - 2023: $15,500/year
+ - 2022: $14,000/year
+ - 2021: $13,500/year
+ - 2020: $13,500/year
+ - 2019: $13,000/year
+
+At Free Law Project, we are paid every other week, creating 26 payments/year. Therefore your maximum deferral is the annual limit divided by 26. For example, in 2024, that amount is $16,000/26 = ~$615.
 
 
 ## Getting Started as an Employee
@@ -63,7 +72,7 @@ To do that:
 
 3. Once you have your online account set up, you'll need to start your contributions (you can later use this same approach to adjust them). To do so, copy/paste the snippet below and send it to mike@free.law:
 
-> Subject to the requirements of the SIMPLE IRA plan of Free law Project, I authorize $_________ to be withheld from my pay for each pay period and contributed to my SIMPLE IRA account as a reduction contribution.
+> Subject to the requirements of the SIMPLE IRA plan of Free Law Project, I authorize $_________ to be withheld from my pay for each pay period and contributed to my SIMPLE IRA account as a reduction contribution.
 >
 > I understand that the total amount of my salary reduction contributions in any calendar year cannot exceed the applicable amount for that year.
 >
@@ -133,3 +142,4 @@ There is a spreadsheet — "ira-contribution-master-file.xlsx" — with all of t
 
 
 [simple]: https://www.irs.gov/retirement-plans/plan-sponsor/simple-ira-plan
+[irs-cr]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-simple-ira-contribution-limits
