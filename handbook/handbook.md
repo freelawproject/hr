@@ -73,7 +73,7 @@ We've been growing and expanding ever since.
 
 ### Staff
 * Michael Lissner, Co-Founder and Executive Director
-* Jenifer Whiston, Director of Philantrhopy
+* Jenifer Whiston, Director of Philanthropy
 * Bill Palin, Open Data Backend Developer
 * Alberto Islas, Open Data Developer
 
