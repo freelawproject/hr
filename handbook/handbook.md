@@ -215,9 +215,9 @@ We expect everyone to be able to get their work done in a timely fashion, and to
 We encourage employees to **use** their vacation time.
 
 #### Taking Leave
-Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. All extended periods of leave must be discussed with the Executive Director.
+You must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. Your supervisor must grant permission no less than 5 business days in advance. All extended periods of leave must be discussed with the Executive Director.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified. 
+Please add the dates your travel to your work calendar and notify the team when you take leave. 
 
 Employees accrue hours of paid leave for every year they work:
 
