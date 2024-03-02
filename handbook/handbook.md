@@ -219,9 +219,19 @@ Employees must inform your supervisor in writing as far in advance as is reasona
 
 To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto your work calendar and the team should be notified. 
 
+Employees accrue hours of paid leave for every year they work:
+
+| After  | Hours accrued |
+| ------------- | ------------- |
+| Start day  | 96  |
+| +1 year  | 104  |
+| +2 years    | 112  |
+| +3 years    | 120  |
+
+Employees may hold a maximum of 240 hours of accrued leave.
+
 [Use Gusto to request and track time off](https://app.gusto.com/free-law-project/employee/time_off).
 
-There is a maximum of 240 hours of paid time off.
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. All employees accrue one hour of sick time per 30 hours of employment with a cap of 80 hours of sick time available.
