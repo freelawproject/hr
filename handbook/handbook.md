@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.4.4, 2024-03-03 - Add PTO accrual table
  - v1.4.3, 2024-02-26 - Add details to PTO policy
  - v1.4.2, 2023-06-18 - Add/clarify mileage reimbursement
  - v1.4.1, 2022-04-14 - Note max PTO time
