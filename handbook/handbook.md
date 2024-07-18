@@ -208,9 +208,7 @@ We are closed on:
 
 1. All [Federal holidays](https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/federal-holidays/) except for Columbus day;
 
-2. [Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day); and
-
-3. [Juneteenth](https://en.m.wikipedia.org/wiki/Juneteenth).
+2. [Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Indigenous_Peoples%27_Day).
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time. Rested and refreshed people are better team members, and we encourage enjoying life outside of the office.
 
