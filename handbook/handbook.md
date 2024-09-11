@@ -74,10 +74,17 @@ We've been growing and expanding ever since.
 ## Staff & Boards
 
 ### Staff
-* Michael Lissner, Co-Founder and Executive Director
-* Jenifer Whiston, Director of Philanthropy
-* Bill Palin, Open Data Backend Developer
-* Alberto Islas, Open Data Developer
+* Ramiro Blanco, Dev-Ops
+* Jessica Frank, User Researcher and PM
+* Sergei Hovyadinov, Developer
+* Alberto Islas, Developer
+* Michael Lissner, Director
+* Bill Palin, Developer
+* Kevin Ramirez, Developer
+* Eduardo Rosendo, Developer
+* Gianfranco Rossi, Developer
+* Stephanie Taube, User Researcher and PM
+* Jenifer Whiston, Philanthropy
 
 ### Previous Staff
 * Heliya Izadpanah, 2022 Summer Intern
@@ -88,6 +95,7 @@ We've been growing and expanding ever since.
 * Brian Carver
 * Michael Lissner
 * Ansel Halliburton
+* Rebecca Fordon
 
 
 ## Professional Conduct
