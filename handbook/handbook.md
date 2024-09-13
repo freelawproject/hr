@@ -76,7 +76,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Ramiro Blanco, Dev-Ops
 * Jessica Frank, User Researcher and PM
-* Sergei Hovyadinov, Developer
+* Sergei Hovyadinov, AI Legal Engineer
 * Alberto Islas, Developer
 * Michael Lissner, Director
 * Bill Palin, Developer
