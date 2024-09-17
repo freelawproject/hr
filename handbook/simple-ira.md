@@ -12,9 +12,10 @@ Nothing in this document is tax, legal, or financial advice, sorry.
  - None planned
 
 ### Current version
- - v1.1.0, 2023-11-29: Updates and tweaks
+ - v1.1.1, 2024-09-17: Prep for 2025
 
 ### Previous versions
+ - v1.1.0, 2023-11-29: Updates and tweaks
  - v1.0.1, 2023-07-06: Tweaks to admin documentation
  - v1.0.0, 2021-04-23: Launch of IRA plan availability
 
@@ -26,6 +27,8 @@ In general, retirement plans allow employers to send some of your compensation d
 For example, imagine that you get $1000 on a given paycheck, but that the government taxes you at a 30% rate. Without a retirement account, you'll be paid $1000 × 30% = $700 each pay period, which you'll invest. If, instead you use a retirement account, you'll get the whole $1,000 to invest for the next few decades and you'll pay taxes on it later, when you retire and take the money out of the account. By using the retirement account, you have 30% more money to invest.
 
 Many for-profit organizations have 401(k) plans for this purpose. Non-profits like ours can have something similar called a 403(b) plan, but both of those plan types require that employers pay big fees to the bank that provides the service. They are also very difficult to administer (see FAQs below) — They're for bigger companies than ours. For organizations like ours, there's something called a [SIMPLE IRA Plan][simple], that is actually quite simple and works similarly, with the main downside being that it has a lower per-year maximum contribution rate.
+
+Starting in 2025, you can also make post-tax Roth contributions to your SIMPLE IRA too. 
 
  
 ## Eligibility
@@ -43,6 +46,7 @@ Contributions may be changed on no more than a monthly basis.
 
 The [maximums that invividuals can contribute][irs-cr] vary year to year. The following apply unless over age 50 (in which case other details apply):
 
+ - 2025: The limit will be 110% of whatever the IRS says, but they have not yet published the 2025 limits.
  - 2024: $16,000/year
  - 2023: $15,500/year
  - 2022: $14,000/year
@@ -73,6 +77,8 @@ To do that:
 3. Once you have your online account set up, you'll need to start your contributions (you can later use this same approach to adjust them). To do so, copy/paste the snippet below and send it to mike@free.law:
 
 > Subject to the requirements of the SIMPLE IRA plan of Free Law Project, I authorize $_________ to be withheld from my pay for each pay period and contributed to my SIMPLE IRA account as a reduction contribution.
+>
+> I further authorize $________ to be witheld from my pay for each pay period post tax to be contributed as Roth contributions.
 >
 > I understand that the total amount of my salary reduction contributions in any calendar year cannot exceed the applicable amount for that year.
 >
@@ -133,7 +139,7 @@ This has to be done in two places. First, go to the link above, then Payroll -->
 
 You will have to re-enter the deferments for all previous employees (See below for calculating this). Payroll is every-other week on Fridays. If there is a deferment on the "Payroll" tab that's held, you may have to delete that so it doesn't *also* happen. It will give you an opportunity to email people with the change. Just send it to yourself.
 
-After adding a new deferment to AMI, you have to mirror it over in Gusto. To do so, pull up the employee, go to their Benefits tab, and add it. That should do it. 
+After adding a new deferment to ACI, you have to mirror it over in Gusto. To do so, pull up the employee, go to their Benefits tab, and add it. That should do it. 
 
 
 ### Calculating deferments
