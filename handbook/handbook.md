@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.5.0, 2024-09-17 - Update reimbursement process to use Gusto
  - v1.4.4, 2024-03-03 - Add PTO accrual table
  - v1.4.3, 2024-02-26 - Add details to PTO policy
  - v1.4.2, 2023-06-18 - Add/clarify mileage reimbursement
@@ -175,11 +176,12 @@ All expenses must be pre-approved. Pre-approved, work-related expenses less than
 Employees are expected to travel economy class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
 
 ### How to File a Reimbursement Request
-You are strongly encouraged to file reimbursement requests as soon as you incur the expenses. Expenses are usually reimbursed within a week of approval and submission. Each reimbursement request must be emailed to the Executive Director, who will review, approve, then submit for payment to appropriate person(s) for execution. Each reimbursement request must include:
+You are strongly encouraged to file reimbursement requests as soon as you incur the expenses. Expenses are usually reimbursed within a week of approval and submission. Each reimbursement request must be submitted into Gusto at the following link: 
 
-* An image or PDF file that containing receipts for each of the expenses for which you are seeking reimbursement.
-* A classification of each expense in the one of the following categories: `Travel - In Town`, `Travel - Out of Town`, `Conference`, `Food and Drink`, `Supplies`, `Subscriptions`, or `Event Hosting`.
-* A short note for describing each expense (e.g. who, what, where, when, why)
+https://app.gusto.com/free-law-project/employee/expenses/me
+
+Your manager will review and (hopefully) approve your request.
+
 
 ## Professional Development
 We strongly encourage employees to explore professional development options.
