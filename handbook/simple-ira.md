@@ -137,7 +137,7 @@ On the employer side, you can tweak things via the administrator account. You ca
 
 This has to be done in two places. First, go to the link above, then Payroll --> Add New Payroll --> Systematic. That'll take you to a wizard. In the first step of the wizard, unckeck the boxes under "Compliance testing" and under "Additional items." Do check "Employee Deferral" and "Employer Match". When you submit that form, it'll show all employees (yes, this really should show everybody that's set up), and you can tweak their deferments. 
 
-You will have to re-enter the deferments for all previous employees (See below for calculating this). Payroll is every-other week on Fridays. If there is a deferment on the "Payroll" tab that's held, you may have to delete that so it doesn't *also* happen. It will give you an opportunity to email people with the change. Just send it to yourself.
+In the past, we re-entered the deferments for all previous employees (see below for calculating this), but it seems like the better thing to do is to create a new "Systematic Model" for the new employee and to leave the existing one alone. If you *do* add existing people to the new schedule, be sure to delete the existing "Systematic Model" or else you'll do duplicate deductions. Payroll is every-other week on Fridays. If there is a deferment on the "Payroll" tab that's held, you may have to delete that so it doesn't *also* happen. It will give you an opportunity to email people with the change. Just send it to yourself.
 
 After adding a new deferment to ACI, you have to mirror it over in Gusto. To do so, pull up the employee, go to their Benefits tab, and add it. That should do it. 
 
