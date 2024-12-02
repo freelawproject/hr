@@ -1,4 +1,9 @@
-# Employee Handbook
+handbook/handbook.md  docker exec -it cl-django pre-commit run --all-files fix(component): Makes the whatsit do the thingsit
+
+ Some longer explanation might go here, explaining why the whatsit is
+ broken and how you fixed it.
+
+ Fixes: #xyzdocker exec -it cl-django tail -f /var/log/courtlistener/django.log docker compose up -d --build cl-django# Employee Handbook
 
 ## Version history
 
