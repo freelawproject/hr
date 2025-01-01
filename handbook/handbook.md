@@ -75,7 +75,7 @@ We've been growing and expanding ever since.
 ## Staff & Boards
 
 ### Staff
-* Ramiro Blanco, Dev-Ops
+* Diego Chacón Rojas, Dev-Ops
 * Jessica Frank, User Researcher and PM
 * Sergei Hovyadinov, AI Legal Engineer
 * Alberto Islas, Developer
