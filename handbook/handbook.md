@@ -77,6 +77,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Diego Chacón Rojas, Dev-Ops
 * Jessica Frank, User Researcher and PM
+* Rachel Gao, AI Developer
 * Sergei Hovyadinov, AI Legal Engineer
 * Alberto Islas, Developer
 * Michael Lissner, Director
