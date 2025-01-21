@@ -75,6 +75,7 @@ We've been growing and expanding ever since.
 ## Staff & Boards
 
 ### Staff
+* Elisa Anguita, Developer
 * Diego Chacón Rojas, Dev-Ops
 * Jessica Frank, User Researcher and PM
 * Rachel Gao, AI Developer
