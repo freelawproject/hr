@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.6.0, 2025-04-19 - Add bereavement leave, clearify client confidentiality section
  - v1.5.0, 2024-09-17 - Update reimbursement process to use Gusto
  - v1.4.4, 2024-03-03 - Add PTO accrual table
  - v1.4.3, 2024-02-26 - Add details to PTO policy
@@ -10,10 +11,10 @@
  - v1.4.0, 2022-04-13 - Add referral bonus
  - v1.3.0, 2021-11-10 - Switch to Gusto for tracking sick and PTO time
  - v1.2.0, 2021-10-12 - Add security sections
- - v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth.
+ - v1.1.0, 2020-06-15 — Remove Columbus Day, add Indigenous Peoples' Day and Juneteenth
  - v1.0.2, 2020-06-01 — Staff update
- - v1.0.1, 2019-12-05 — Adds link to the leave policy section for logging leave.
- - v1.0, 2019-09-30 — Final version approved by board, without changes since 0.99 version.
+ - v1.0.1, 2019-12-05 — Adds link to the leave policy section for logging leave
+ - v1.0, 2019-09-30 — Final version approved by board, without changes since 0.99 version
  - v0.99, 2019-09-22 — Updates following legal review, and once again proposed to the board. Again, this version is not yet applicable to any employee, and remains open to suggestions and corrections.
  - v0.9.3, 2019-07-08 - All policies updated and reviewed by @mlissner and proposed to board. This version is not yet applicable to any employee, but is open to suggestions and corrections.
  - v0.9, 2019-07-01 - A copy from https://github.com/opengovfoundation/hr-manual
@@ -87,18 +88,18 @@ We've been growing and expanding ever since.
 * Eduardo Rosendo, Developer
 * Gianfranco Rossi, Developer
 * Stephanie Taube, User Researcher and PM
-* Jenifer Whiston, Philanthropy
+* Jenifer Whiston, Director of Philanthropy
 
 ### Previous Staff
 * Heliya Izadpanah, 2022 Summer Intern
 * Andrea Ekey, 2020 Summer Intern
 
-
 ### Board of Directors
 * Brian Carver
-* Michael Lissner
-* Ansel Halliburton
 * Rebecca Fordon
+* Ansel Halliburton
+* Michael Lissner
+* Michelle Ma
 
 
 ## Professional Conduct
@@ -108,9 +109,9 @@ Our organization adheres to the highest legal and ethical standards applicable i
 
 ### Client Confidentiality
 
-In our work, we often work with legal companies, journalists, and academic researchers. Each has distinct confidentiality interests that we must treat with the highest respect. Our reputation and our mission depends on our ability not to disclose our clients confidential information. 
+In our work, we often work with legal companies, journalists, and academic researchers. Each has distinct confidentiality interests that we must treat with the highest respect. Our reputation and our mission depends on our ability not to disclose our clients confidential information, and all employees and contractors are asked to sign a non-disclosure agreement.
 
-Be prepared to be asked if you are working with an organization or if you know what an organization's next product will be. You may be asked by somebody with extensive experience interviewing witnesses. If asked, remember that the person asking you will judge your honesty and that of Free Law Project by how much you disclose. The less you reveal, the more they will trust you with their confidential information in the future. This builds trust, and allows us to further our mission.
+Be prepared to be asked if you are working with an organization or if you know what an organization's next product will be. You may be asked by somebody with extensive experience interviewing witnesses. If asked, remember that the person asking you will judge your honesty and that of Free Law Project by how much you disclose. The less you reveal, the more they will trust you with their confidential information in the future. This builds trust and allows us to further our mission.
 
 Do **not** disclose confidential client information. This is a critically important element of our work, and any disclosure, even inadvertent, may result in immediately disciplinary action, up to and including your termination. 
 
@@ -251,10 +252,14 @@ Please notify the team if you are sick and need to take the day off. All employe
 
 [Use Gusto to request and track sick time](https://app.gusto.com/free-law-project/employee/time_off).
 
-
 ### Parental Leave
 
-Please see our [Parental Leave policy](https://github.com/freelawproject/hr/blob/master/handbook/parental-leave.md) for details.
+Please see our [Parental Leave policy](https://github.com/freelawproject/hr/blob/main/handbook/parental-leave.md) for details.
+
+### Bereavement Leave
+
+Please see our [Bereavement Leave policy](https://github.com/freelawproject/hr/blob/main/handbook/bereavement-leave.md) for details.
+
 
 ## How We Work
 
@@ -270,11 +275,9 @@ Please see our [Parental Leave policy](https://github.com/freelawproject/hr/blob
 
 5. Use a strong password on your laptop and encrypt your disk.
 
-
 ### Physical Security
 
-The nature of our work puts at some personal risk. We place personal records online for millions of people, some of whom may not be safe. Do not share personal information like the address of the FLP headquarters or phone number in public locations or with people that you do not trust. 
-
+The nature of our work may put us at some personal risk. We place personal records online for millions of people, some of whom may be dangerous. Do not share personal information like the address of the FLP headquarters or phone number in public locations or with people that you do not trust. 
 
 ### Email Accounts & Document Sharing
 We will set you up with an organizational Google Suite account. This will provide you access to all the basic necessities like email, calendar, and shared storage.
@@ -354,11 +357,12 @@ We also recognize that sometimes such reports may be difficult to make, or may c
 The unlawful or improper presence or use of controlled substances or alcohol in the workplace can present a danger to all employees. All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
 
 
-## Compliance Notices
+### Compliance Notices
 
 State and federal agencies require that we share posters with our employees that informs them of their rights. We keep these posters in this repository in the "posters" directory, and post some additional information below. 
 
 Please review and know your rights.  
+
 
 ### Emergency Phone Numbers
 
