@@ -4,6 +4,7 @@
 
 ### Current
 
+ - v1.0, 2025-05-02: Draft adopted by the board without amendment.
  - v0.9: First draft for discussion of the board, but available to all staff members immediately.
 
 
