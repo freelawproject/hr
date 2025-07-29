@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.6.1, 2025-07-28 - Update employee list
  - v1.6.0, 2025-04-19 - Add bereavement leave, clearify client confidentiality section
  - v1.5.0, 2024-09-17 - Update reimbursement process to use Gusto
  - v1.4.4, 2024-03-03 - Add PTO accrual table
@@ -80,9 +81,11 @@ We've been growing and expanding ever since.
 * Diego Chacón Rojas, Dev-Ops
 * Jessica Frank, User Researcher and PM
 * Rachel Gao, AI Developer
-* Sergei Hovyadinov, AI Legal Engineer
 * Alberto Islas, Developer
 * Michael Lissner, Director
+* Libby Mandarino, Operations
+* Luiz Manzur, Developer
+* Eri O'Diah, Partnerships
 * Bill Palin, Developer
 * Kevin Ramirez, Developer
 * Eduardo Rosendo, Developer
@@ -91,8 +94,9 @@ We've been growing and expanding ever since.
 * Jenifer Whiston, Director of Philanthropy
 
 ### Previous Staff
-* Heliya Izadpanah, 2022 Summer Intern
 * Andrea Ekey, 2020 Summer Intern
+* Sergei Hovyadinov, AI Legal Engineer
+* Heliya Izadpanah, 2022 Summer Intern
 
 ### Board of Directors
 * Brian Carver
