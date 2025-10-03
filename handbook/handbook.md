@@ -79,7 +79,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Elisa Anguita, Developer
 * Diego Chacón Rojas, Dev-Ops
-* Jessica Frank, User Researcher and PM
+* Jessica Frank, Justice Initiatives
 * Rachel Gao, AI Developer
 * Alberto Islas, Developer
 * Michael Lissner, Director
