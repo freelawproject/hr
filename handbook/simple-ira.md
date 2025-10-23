@@ -128,7 +128,7 @@ A: Because they're complicated and expensive. For example, Vanguard offers such 
 
 Q: Something else?
 
-A: Email libby@free.law
+A: Email operations@free.law
 
 
 ## For the Plan Administrator
