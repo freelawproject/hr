@@ -12,9 +12,10 @@ Nothing in this document is tax, legal, or financial advice, sorry.
  - None planned
 
 ### Current version
- - v1.1.1, 2024-09-17: Prep for 2025
+ - v1.2.0, 2025-10-23: Prep for 2026 and tweaks
 
 ### Previous versions
+ - v1.1.1, 2024-09-17: Prep for 2025
  - v1.1.0, 2023-11-29: Updates and tweaks
  - v1.0.1, 2023-07-06: Tweaks to admin documentation
  - v1.0.0, 2021-04-23: Launch of IRA plan availability
@@ -28,7 +29,7 @@ For example, imagine that you get $1000 on a given paycheck, but that the govern
 
 Many for-profit organizations have 401(k) plans for this purpose. Non-profits like ours can have something similar called a 403(b) plan, but both of those plan types require that employers pay big fees to the bank that provides the service. They are also very difficult to administer (see FAQs below) — They're for bigger companies than ours. For organizations like ours, there's something called a [SIMPLE IRA Plan][simple], that is actually quite simple and works similarly, with the main downside being that it has a lower per-year maximum contribution rate.
 
-Starting in 2025, you can also make post-tax Roth contributions to your SIMPLE IRA too. 
+You can also make post-tax Roth contributions to your SIMPLE IRA too. 
 
  
 ## Eligibility
@@ -44,9 +45,12 @@ Free Law Project will match your contributions up to the legal limit of 3% of yo
 
 Contributions may be changed on no more than a monthly basis.
 
-The [maximums that invividuals can contribute][irs-cr] vary year to year. The following apply unless over age 50 (in which case other details apply):
+The [maximums that individuals can contribute][irs-cr] vary year to year. The following apply unless you are age 50 or over at the end of the calendar year which makes you eligible for [catch-up contributions][catchup-contributions]:
 
- - 2025: The limit will be 110% of whatever the IRS says, but they have not yet published the 2025 limits.
+[catchup-contributions]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions
+
+ - 2026: The limit will be 110% of whatever the IRS says, but they have not yet published the 2026 limits.
+ - 2025: $16,500/year
  - 2024: $16,000/year
  - 2023: $15,500/year
  - 2022: $14,000/year
@@ -124,7 +128,7 @@ A: Because they're complicated and expensive. For example, Vanguard offers such 
 
 Q: Something else?
 
-A: Email mike@free.law
+A: Email operations@free.law
 
 
 ## For the Plan Administrator
