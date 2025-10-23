@@ -49,7 +49,8 @@ The [maximums that individuals can contribute][irs-cr] vary year to year. The fo
 
 [catchup-contributions]: https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions
 
- - 2025: The limit will be 110% of whatever the IRS says, but they have not yet published the 2025 limits.
+ - 2026: The limit will be 110% of whatever the IRS says, but they have not yet published the 2026 limits.
+ - 2025: $16,500/year
  - 2024: $16,000/year
  - 2023: $15,500/year
  - 2022: $14,000/year
