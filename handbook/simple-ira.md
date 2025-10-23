@@ -12,7 +12,7 @@ Nothing in this document is tax, legal, or financial advice, sorry.
  - None planned
 
 ### Current version
- - v.1.2.0, 2025-10-23: Prep for 2026 and tweaks
+ - v1.2.0, 2025-10-23: Prep for 2026 and tweaks
 
 ### Previous versions
  - v1.1.1, 2024-09-17: Prep for 2025
