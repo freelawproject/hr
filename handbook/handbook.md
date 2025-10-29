@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.6.2, 2025-10-29 - Updated employee list, added map
  - v1.6.1, 2025-07-28 - Update employee list
  - v1.6.0, 2025-04-19 - Add bereavement leave, clearify client confidentiality section
  - v1.5.0, 2024-09-17 - Update reimbursement process to use Gusto
@@ -85,6 +86,7 @@ We've been growing and expanding ever since.
 * Michael Lissner, Director
 * Libby Mandarino, Operations
 * Luiz Manzur, Developer
+* Mitch Mitchel, Justice Initiatives
 * Eri O'Diah, Partnerships
 * Bill Palin, Developer
 * Kevin Ramirez, Developer
@@ -92,6 +94,10 @@ We've been growing and expanding ever since.
 * Gianfranco Rossi, Developer
 * Stephanie Taube, User Researcher and PM
 * Jenifer Whiston, Director of Philanthropy
+
+  See where we're located in [the world].
+
+  [the world]: https://maps.app.goo.gl/Z6dB157TB5Cc9npB8
 
 ### Previous Staff
 * Andrea Ekey, 2020 Summer Intern
