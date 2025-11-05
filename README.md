@@ -8,7 +8,7 @@ Included you'll find our:
   
  - Regulatory posters — please review these to learn your rights
  
- - Our parantal leave policy
+ - Our parental leave policy
  
  - A reference to our whistle blower policy
  
