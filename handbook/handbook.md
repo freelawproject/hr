@@ -92,6 +92,7 @@ We've been growing and expanding ever since.
 * Kevin Ramirez, Developer
 * Eduardo Rosendo, Developer
 * Gianfranco Rossi, Developer
+* Esti Shay, Developer
 * Stephanie Taube, User Researcher and PM
 * Jenifer Whiston, Director of Philanthropy
 
