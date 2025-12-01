@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.6.3, 2025-12-01 - Update employee list
  - v1.6.2, 2025-10-29 - Updated employee list, added map
  - v1.6.1, 2025-07-28 - Update employee list
  - v1.6.0, 2025-04-19 - Add bereavement leave, clearify client confidentiality section
@@ -80,6 +81,7 @@ We've been growing and expanding ever since.
 ### Staff
 * Elisa Anguita, Developer
 * Diego Chacón Rojas, Dev-Ops
+* Brennan Chesley, Developer
 * Jessica Frank, Justice Initiatives
 * Rachel Gao, AI Developer
 * Alberto Islas, Developer
