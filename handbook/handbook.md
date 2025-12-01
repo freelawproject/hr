@@ -80,6 +80,7 @@ We've been growing and expanding ever since.
 
 ### Staff
 * Elisa Anguita, Developer
+* Morgan Bennet, Developer
 * Diego Chacón Rojas, Dev-Ops
 * Brennan Chesley, Developer
 * Jessica Frank, Justice Initiatives
