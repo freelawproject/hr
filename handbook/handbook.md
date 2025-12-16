@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.6.4, 2025-12-12 - Update employee list
  - v1.6.3, 2025-12-01 - Update employee list
  - v1.6.2, 2025-10-29 - Updated employee list, added map
  - v1.6.1, 2025-07-28 - Update employee list
@@ -95,6 +96,7 @@ We've been growing and expanding ever since.
 * Kevin Ramirez, Developer
 * Eduardo Rosendo, Developer
 * Gianfranco Rossi, Developer
+* Esti Shay, Developer
 * Stephanie Taube, User Researcher and PM
 * Jenifer Whiston, Director of Philanthropy
 
