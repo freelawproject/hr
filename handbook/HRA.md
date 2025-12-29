@@ -50,12 +50,12 @@ A: Because we have a small number of employees spread over so many different sta
 
 Q: Can my partner and/or children be covered by the HRA?
 
-A: Free Law Project covers 100% of employee premiums and 75% of partner's and dependents' premiums. When registering on Take Command, you'll be able to see your updated allowance amounts after inputting this information.
+A: Free Law Project covers 100% of employee premiums and 75% of your partner and dependents' premiums. When registering on Take Command, you'll be able to see your updated allowance amounts after inputting this information.
 
 
 Q: I don't want to use this, I'm on my partner or parent's plan.
 
-A: You can waive the benefit in the Take Command portal
+A: You can waive the benefit in the Take Command portal.
 
 
 Q: I don't know which plan to select.
@@ -70,7 +70,7 @@ A: You can only change your plan during [Open Enrollment] (which happens at the 
 
 Q: I have another question that isn't covered here.
 
-A: Ask Libby
+A: Ask Libby!
 
 
 
