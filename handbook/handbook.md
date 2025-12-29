@@ -410,3 +410,4 @@ In compliance with [Division 14, Chapter 1, §14000 of the CA state code][code]:
 
 [mileage]: https://www.irs.gov/tax-professionals/standard-mileage-rates
 [401(k) documentation]: https://github.com/freelawproject/hr/blob/main/handbook/401k.md
+[HRA documentation]: https://github.com/freelawproject/hr/blob/main/handbook/HRA.md
