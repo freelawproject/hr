@@ -159,16 +159,17 @@ Administered every other Friday, via direct deposit.
 The organization's Operations Manager is available to help with any payroll or benefits questions.
 
 ### Benefits
-All employees are encouraged to enroll in our 401(k) plan and HRA (health reimbursement arrangement). Please see our [401(k) documentation] and [HRA documentation] for more details on that.
+All employees are encouraged to enroll in our 401(k) plan and HRA (health reimbursement arrangement). Please see our [401(k) documentation] and [HRA documentation] for more details on that. HRAs are relatively uncommon, but this is how Free Law Project is able to offer medical, vision, and dental benefits to employees across many different states. If you are not familiar with HRAs and how they differ from traditional group coverage, you can learn more [here](https://www.takecommandhealth.com/blog/ichra-vs-group-plans).
 
 Life insurance and flexible spending accounts for dependent care and health care spending are available upon request.
 
 Any contractor or employee that refers an applicant to the organization is entitled to a $500 referral bonus if that applicant is hired as a new contractor or employee and continues working full time with the organization for a period of 90 days.
 
-Unfortunately, we currently do not offer health, vision, or dental benefits due to the immense complexity of offering them in an organization of our size and geographic distribution. We do, however, adjust salaries to attempt to compensate for this deficiency.
 
 ### Performance Assessments
-Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. Each employee will be assessed at the end of each year. You will complete a self-evaluation of your work over the past year, and your supervisor will complete an evaluation of your work as well. Then you will meet to discuss your evaluations, talk about any differences, and set goals for the upcoming year.
+Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance.
+
+Each employee will be assessed at the end of each year. You will complete a self-evaluation of your work over the past year, and your supervisor will complete an evaluation of your work as well. Then you will meet to discuss your evaluations, talk about any differences, and set goals for the upcoming year.
 
 New employees will also have a shorter evaluation with their supervisor 90 days after their hire date to discuss their progress and identify any onboarding gaps.
 
