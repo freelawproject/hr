@@ -2,9 +2,10 @@
 
 ## Version history
 
+ - v1.7.0, 2025-12-29 - Update benefits, update performance reviews, update softward security, add non-Gusto reimbursements
  - v1.6.4, 2025-12-12 - Update employee list
  - v1.6.3, 2025-12-01 - Update employee list
- - v1.6.2, 2025-10-29 - Updated employee list, added map
+ - v1.6.2, 2025-10-29 - Update employee list, add map
  - v1.6.1, 2025-07-28 - Update employee list
  - v1.6.0, 2025-04-19 - Add bereavement leave, clearify client confidentiality section
  - v1.5.0, 2024-09-17 - Update reimbursement process to use Gusto
@@ -155,10 +156,10 @@ We also encourage individual employees to speak to members of the media about an
 ### Payroll
 Administered every other Friday, via direct deposit.
 
-The organization's Executive Director is available to help with any payroll or benefits questions.
+The organization's Operations Manager is available to help with any payroll or benefits questions.
 
 ### Benefits
-All employees are encouraged to enroll in pre-tax Simple IRA retirement plans and 529 college savings plans. Please see our [IRA documentation](https://github.com/freelawproject/hr/blob/master/handbook/simple-ira.md) for details on that.
+All employees are encouraged to enroll in our 401(k) plan and HRA (health reimbursement arrangement). Please see our [401(k) documentation] and [HRA documentation] for more details on that.
 
 Life insurance and flexible spending accounts for dependent care and health care spending are available upon request.
 
@@ -167,14 +168,14 @@ Any contractor or employee that refers an applicant to the organization is entit
 Unfortunately, we currently do not offer health, vision, or dental benefits due to the immense complexity of offering them in an organization of our size and geographic distribution. We do, however, adjust salaries to attempt to compensate for this deficiency.
 
 ### Performance Assessments
-Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. Each employee will be assessed twice per year. 
+Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance. Each employee will be assessed at the end of each year. You will complete a self-evaluation of your work over the past year, and your supervisor will complete an evaluation of your work as well. Then you will meet to discuss your evaluations, talk about any differences, and set goals for the upcoming year.
 
-We are in the process of determining the best way to carry out this commitment and will update this manual when a plan is made.
+New employees will also have a shorter evaluation with their supervisor 90 days after their hire date to discuss their progress and identify any onboarding gaps.
 
 ### Raises and Bonuses
 Annual cost of living increases will be combined with any merit increases. These will be reviewed and approved by the Board of Directors on an annual basis.
 
-Additional raises and bonuses may be considered at other times to account for special circumstances, such as extraordinary performance, a change in position and/or an increase in responsibilities.
+Additional raises and bonuses may be considered at other times to account for special circumstances, such as extraordinary performance, a change in position, and/or an increase in responsibilities.
 
 
 ## Reimbursable Expenses
@@ -191,7 +192,7 @@ All expenses must be pre-approved. Pre-approved, work-related expenses less than
 * Organization-specific subscriptions and/or software.
 * Expenses associated with organization sponsored events.
 
-Employees are expected to travel economy class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
+Employees are expected to travel economy class when traveling by air, book reasonably-priced hotels, and not spend excessively on meals and other travel expenses.
 
 ### How to File a Reimbursement Request
 You are strongly encouraged to file reimbursement requests as soon as you incur the expenses. Expenses are usually reimbursed within a week of approval and submission. Each reimbursement request must be submitted into Gusto at the following link: 
@@ -199,6 +200,8 @@ You are strongly encouraged to file reimbursement requests as soon as you incur 
 https://app.gusto.com/free-law-project/employee/expenses/me
 
 Your manager will review and (hopefully) approve your request.
+
+If you are not paid through Gusto, you can submit a reimbursement request via email to the Operations Manager (operations@free.law). Please include a copy of your receipt and a short explanation of what the purchase was, why it was necessary, and the date of purchase. 
 
 
 ## Professional Development
@@ -280,7 +283,7 @@ Please see our [Bereavement Leave policy](https://github.com/freelawproject/hr/b
 
 ### Software Security
 
-1. Use a password manager. 1Password, BitWarden, and LastPass are all fine.
+1. We have an organizational BitWarden account. If you already have a BitWarden account, you can set up a new profile for Free Law Project.
 
 2. In general, do not use passwords you can memorize. Some exceptions might be for logging into laptops or servers (where you have 2FA configured).
 
@@ -289,6 +292,8 @@ Please see our [Bereavement Leave policy](https://github.com/freelawproject/hr/b
 4. Keep all your systems updated at all times. Always apply security updates as quickly as possible.
 
 5. Use a strong password on your laptop and encrypt your disk.
+
+6. When sharing passwords with another team member, use a shared BitWarden collection.
 
 ### Physical Security
 
@@ -404,3 +409,4 @@ In compliance with [Division 14, Chapter 1, §14000 of the CA state code][code]:
 > (c) If the employee on the third working day prior to the day of election, knows or has reason to believe that time off will be necessary to be able to vote on election day, the employee shall give the employer at least two working days’ notice that time off for voting is desired, in accordance with this section.
 
 [mileage]: https://www.irs.gov/tax-professionals/standard-mileage-rates
+[401(k) documentation]: https://github.com/freelawproject/hr/blob/main/handbook/401k.md
