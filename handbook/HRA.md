@@ -70,7 +70,7 @@ A: You can only change your plan during [Open Enrollment] (which happens at the 
 
 Q: I have another question that isn't covered here.
 
-A: Ask Libby!
+A: Ask operations@free.law!
 
 
 
