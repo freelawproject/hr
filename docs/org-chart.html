@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Org Chart Generator</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #f6f5f0;
+    --surface: #ffffff;
+    --text: #1a1a1a;
+    --text-secondary: #6b6560;
+    --accent: #c0440f;
+    --border: #e2ddd6;
+    --border-strong: #ccc5bb;
+    --connector: #b8b0a5;
+    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+    --shadow-lg: 0 2px 8px rgba(0,0,0,0.08), 0 12px 36px rgba(0,0,0,0.06);
+    --radius: 10px;
+    --mono: 'JetBrains Mono', monospace;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    line-height: 1.5;
+  }
+
+  header {
+    padding: 24px 24px 0;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  header h1 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  header p {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+  }
+
+  .app {
+    padding: 16px 24px 32px;
+    display: flex;
+    gap: 20px;
+    min-height: calc(100vh - 70px);
+  }
+
+  /* --- Sidebar --- */
+  .input-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 380px;
+    min-width: 380px;
+    transition: width 0.25s, min-width 0.25s, opacity 0.2s, margin 0.25s;
+    overflow: hidden;
+  }
+
+  .input-panel.collapsed {
+    width: 0;
+    min-width: 0;
+    opacity: 0;
+    margin-right: -20px;
+    pointer-events: none;
+  }
+
+  .toggle-sidebar {
+    padding: 5px 10px;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    font-family: var(--sans);
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+    margin-left: auto;
+  }
+
+  .toggle-sidebar:hover { border-color: var(--text-secondary); color: var(--text); }
+
+  .editor-wrap {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    min-height: 0;
+  }
+
+  .editor-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    background: #faf9f6;
+  }
+
+  .editor-header span {
+    font-size: 0.68rem;
+    font-family: var(--mono);
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  textarea {
+    flex: 1;
+    width: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    padding: 12px;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--surface);
+    tab-size: 2;
+  }
+
+  textarea::placeholder { color: #c0b8ae; }
+
+  .syntax-help {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 12px;
+    font-size: 0.72rem;
+    color: var(--text-secondary);
+    line-height: 1.55;
+  }
+
+  .syntax-help strong { color: var(--text); font-weight: 600; }
+
+  .syntax-help code {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    background: #f0ede7;
+    padding: 1px 4px;
+    border-radius: 3px;
+  }
+
+  .actions {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    padding: 7px 14px;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    font-family: var(--sans);
+    font-size: 0.76rem;
+    font-weight: 500;
+    color: var(--text);
+    border-radius: 7px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .btn:hover { border-color: var(--text-secondary); }
+  .btn-primary { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .btn-primary:hover { background: #333; }
+  .btn-dl { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .btn-dl:hover { background: #a83a0d; }
+
+  /* --- Output --- */
+  .output-panel {
+    flex: 1;
+    min-width: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .output-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    background: #faf9f6;
+  }
+
+  .output-header span {
+    font-size: 0.68rem;
+    font-family: var(--mono);
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .chart-container {
+    flex: 1;
+    overflow: auto;
+    padding: 32px;
+  }
+
+  .chart-container.empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .empty-state {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.82rem;
+  }
+
+  .empty-state .icon {
+    font-size: 2.2rem;
+    margin-bottom: 8px;
+    opacity: 0.3;
+  }
+
+  .error-msg {
+    margin: 14px;
+    padding: 10px 14px;
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    border-radius: 7px;
+    color: #b91c1c;
+    font-size: 0.78rem;
+    font-family: var(--mono);
+    white-space: pre-wrap;
+  }
+
+  /* ---- Org Chart Nodes ---- */
+  .org-tree {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .org-node-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  }
+
+  .org-card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 12px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    position: relative;
+    min-width: 90px;
+    max-width: 180px;
+    transition: all 0.2s;
+    cursor: default;
+  }
+
+  .org-card:hover {
+    box-shadow: var(--shadow-lg);
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+
+  .org-card.root {
+    background: var(--text);
+    color: var(--bg);
+    border-color: var(--text);
+  }
+
+  .org-card.root:hover { border-color: var(--text); }
+
+  .org-card .name {
+    font-weight: 600;
+    font-size: 0.74rem;
+    line-height: 1.25;
+    white-space: nowrap;
+  }
+
+  .org-card .title {
+    font-size: 0.64rem;
+    color: var(--text-secondary);
+    margin-top: 1px;
+    white-space: nowrap;
+  }
+
+  .org-card.root .title { color: #a09a94; }
+
+  .org-card .responsibilities {
+    font-size: 0.6rem;
+    color: var(--text-secondary);
+    margin-top: 4px;
+    padding-top: 4px;
+    border-top: 1px solid var(--border);
+    line-height: 1.35;
+    text-align: left;
+  }
+
+  .org-card.root .responsibilities {
+    color: #918b85;
+    border-top-color: #3a3a3a;
+  }
+
+  .org-card .responsibilities span { display: block; }
+
+  .org-children-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .org-connector-down {
+    width: 1.5px;
+    height: 18px;
+    background: var(--connector);
+  }
+
+  .org-children-row {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+
+  .org-children-row > .org-node-group {
+    padding: 0 10px;
+  }
+
+  .org-h-bar {
+    position: absolute;
+    top: 0;
+    height: 1.5px;
+    background: var(--connector);
+  }
+
+  .org-connector-up {
+    width: 1.5px;
+    height: 18px;
+    background: var(--connector);
+  }
+
+  @media (max-width: 700px) {
+    .app { flex-direction: column; padding: 12px; }
+    .input-panel { width: 100%; min-width: 100%; }
+    .input-panel.collapsed { width: 0; min-width: 0; height: 0; }
+    .chart-container { padding: 16px; }
+    header { padding: 16px 12px 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Org Chart Generator</h1>
+    <p>Bulleted list in, org chart out. Cmd+Enter to render.</p>
+  </div>
+  <button class="toggle-sidebar" id="toggle-sidebar">Hide Editor</button>
+</header>
+
+<div class="app">
+  <div class="input-panel" id="input-panel">
+    <div class="editor-wrap">
+      <div class="editor-header">
+        <span>Bulleted List</span>
+      </div>
+      <textarea id="input" spellcheck="false" placeholder="- CEO - Jane Smith {Strategy, Culture}
+  - CTO - Alice {Engineering}
+    - VP Eng - Bob {Delivery}
+  - CFO - Frank {Finance}
+# This is a comment"></textarea>
+    </div>
+
+    <div class="syntax-help">
+      <strong>Hierarchy:</strong> Indent <code>-</code> or <code>*</code> bullets under parents.<br>
+      <strong>Title:</strong> <code>Role - Name</code> or <code>Name (Role)</code><br>
+      <strong>Responsibilities:</strong> <code>{item1, item2}</code> at end of line.<br>
+      <strong>Comments:</strong> Lines starting with <code>#</code> are ignored.<br>
+      <strong>Keys:</strong> Tab indents, Shift+Tab outdents selected lines.
+    </div>
+
+    <div class="actions">
+      <button class="btn btn-primary" id="render-btn">Render</button>
+      <button class="btn" id="example-btn">Example</button>
+      <button class="btn btn-dl" id="download-btn" style="display:none;">PNG</button>
+    </div>
+  </div>
+
+  <div class="output-panel">
+    <div class="output-header">
+      <span>Preview</span>
+      <span id="node-count"></span>
+    </div>
+    <div class="chart-container empty" id="chart">
+      <div class="empty-state">
+        <div class="icon">◱</div>
+        <div>Enter your org structure and hit <strong>Render</strong></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script>
+(function() {
+  const input = document.getElementById('input');
+  const chart = document.getElementById('chart');
+  const renderBtn = document.getElementById('render-btn');
+  const exampleBtn = document.getElementById('example-btn');
+  const downloadBtn = document.getElementById('download-btn');
+  const nodeCountEl = document.getElementById('node-count');
+  const panel = document.getElementById('input-panel');
+  const toggleBtn = document.getElementById('toggle-sidebar');
+
+  // --- Sidebar toggle ---
+  let sidebarHidden = false;
+
+  function setSidebar(hidden) {
+    sidebarHidden = hidden;
+    panel.classList.toggle('collapsed', hidden);
+    toggleBtn.textContent = hidden ? 'Show Editor' : 'Hide Editor';
+  }
+
+  toggleBtn.addEventListener('click', () => {
+    setSidebar(!sidebarHidden);
+    stateToURL();
+  });
+
+  // --- URL state ---
+  function stateToURL() {
+    const params = new URLSearchParams();
+    params.set('d', btoa(unescape(encodeURIComponent(input.value))));
+    if (sidebarHidden) params.set('h', '1');
+    history.replaceState(null, '', '?' + params.toString());
+  }
+
+  function stateFromURL() {
+    const params = new URLSearchParams(location.search);
+    if (params.has('h') && params.get('h') === '1') setSidebar(true);
+    if (params.has('d')) {
+      try {
+        input.value = decodeURIComponent(escape(atob(params.get('d'))));
+        render();
+      } catch(e) {}
+    }
+  }
+
+  // --- Editor: auto-indent on Enter ---
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.ctrlKey && !e.metaKey) {
+      e.preventDefault();
+      const val = this.value;
+      const start = this.selectionStart;
+      // Find current line
+      const lineStart = val.lastIndexOf('\n', start - 1) + 1;
+      const line = val.slice(lineStart, start);
+      // Match leading whitespace + bullet
+      const match = line.match(/^(\s*(?:[-*+]\s)?)/);
+      const indent = match ? match[1] : '';
+      const before = val.slice(0, start);
+      const after = val.slice(this.selectionEnd);
+      this.value = before + '\n' + indent + after;
+      this.selectionStart = this.selectionEnd = start + 1 + indent.length;
+      return;
+    }
+
+    // Tab / Shift+Tab for indent/outdent
+    if (e.key === 'Tab') {
+      e.preventDefault();
+      const val = this.value;
+      const start = this.selectionStart;
+      const end = this.selectionEnd;
+
+      // Find line boundaries of selection
+      const firstLineStart = val.lastIndexOf('\n', start - 1) + 1;
+      let lastLineEnd = val.indexOf('\n', end);
+      if (lastLineEnd === -1) lastLineEnd = val.length;
+
+      const selectedBlock = val.slice(firstLineStart, lastLineEnd);
+      const lines = selectedBlock.split('\n');
+      let newLines;
+      let deltaFirst = 0;
+
+      if (e.shiftKey) {
+        // Outdent: remove up to 2 leading spaces
+        newLines = lines.map((l, i) => {
+          const removed = l.replace(/^ {1,2}/, '');
+          if (i === 0) deltaFirst = removed.length - l.length;
+          return removed;
+        });
+      } else {
+        // Indent: add 2 spaces
+        newLines = lines.map((l, i) => {
+          if (i === 0) deltaFirst = 2;
+          return '  ' + l;
+        });
+      }
+
+      const newBlock = newLines.join('\n');
+      this.value = val.slice(0, firstLineStart) + newBlock + val.slice(lastLineEnd);
+
+      // Restore selection
+      const newStart = Math.max(firstLineStart, start + deltaFirst);
+      const newEnd = firstLineStart + newBlock.length - (lastLineEnd - end);
+      this.selectionStart = newStart;
+      this.selectionEnd = Math.max(newStart, newEnd);
+      return;
+    }
+
+    // Cmd/Ctrl+Enter to render
+    if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') {
+      e.preventDefault();
+      render();
+    }
+  });
+
+  // --- Parsing ---
+  function parseLine(raw) {
+    let responsibilities = [];
+    const braceMatch = raw.match(/\{([^}]+)\}\s*$/);
+    if (braceMatch) {
+      responsibilities = braceMatch[1].split(',').map(s => s.trim()).filter(Boolean);
+      raw = raw.slice(0, braceMatch.index).trim();
+    }
+    let name, title;
+    let m = raw.match(/^(.+?)\s*[-–—]\s+(.+)$/);
+    if (m) { name = m[1].trim(); title = m[2].trim(); }
+    else {
+      m = raw.match(/^(.+?)\s*\((.+)\)$/);
+      if (m) { name = m[1].trim(); title = m[2].trim(); }
+      else { name = raw; title = ''; }
+    }
+    return { name, title, responsibilities, children: [] };
+  }
+
+  function parseBullets(text) {
+    const lines = text.split('\n');
+    const root = { name: '', title: '', responsibilities: [], children: [] };
+    const stack = [{ node: root, indent: -1 }];
+
+    for (const line of lines) {
+      if (!line.trim()) continue;
+      // Skip comment lines
+      const trimmed = line.trim();
+      if (trimmed.startsWith('#')) continue;
+
+      const expanded = line.replace(/\t/g, '  ');
+      const indentMatch = expanded.match(/^(\s*)/);
+      const indent = indentMatch ? indentMatch[1].length : 0;
+      const content = expanded.replace(/^\s*[-*+]\s+/, '').trim();
+      if (!content) continue;
+
+      const node = parseLine(content);
+      while (stack.length > 1 && stack[stack.length - 1].indent >= indent) stack.pop();
+      stack[stack.length - 1].node.children.push(node);
+      stack.push({ node, indent });
+    }
+
+    if (root.children.length === 1) return root.children[0];
+    if (root.children.length > 1) return { name: 'Organization', title: '', responsibilities: [], children: root.children };
+    return null;
+  }
+
+  // --- Rendering ---
+  function countNodes(n) { return n ? 1 + (n.children||[]).reduce((s,c) => s+countNodes(c), 0) : 0; }
+
+  function renderNode(node, isRoot) {
+    const group = document.createElement('div');
+    group.className = 'org-node-group';
+
+    const card = document.createElement('div');
+    card.className = 'org-card' + (isRoot ? ' root' : '');
+
+    const nameEl = document.createElement('div');
+    nameEl.className = 'name';
+    nameEl.textContent = node.name;
+    card.appendChild(nameEl);
+
+    if (node.title) {
+      const t = document.createElement('div');
+      t.className = 'title';
+      t.textContent = node.title;
+      card.appendChild(t);
+    }
+
+    if (node.responsibilities.length) {
+      const r = document.createElement('div');
+      r.className = 'responsibilities';
+      for (const item of node.responsibilities) {
+        const s = document.createElement('span');
+        s.textContent = '· ' + item;
+        r.appendChild(s);
+      }
+      card.appendChild(r);
+    }
+
+    group.appendChild(card);
+
+    if (node.children.length) {
+      const wrap = document.createElement('div');
+      wrap.className = 'org-children-wrap';
+
+      const down = document.createElement('div');
+      down.className = 'org-connector-down';
+      wrap.appendChild(down);
+
+      const row = document.createElement('div');
+      row.className = 'org-children-row';
+
+      for (const child of node.children) {
+        const cg = document.createElement('div');
+        cg.className = 'org-node-group';
+
+        const up = document.createElement('div');
+        up.className = 'org-connector-up';
+        cg.appendChild(up);
+
+        const sub = renderNode(child, false);
+        while (sub.firstChild) cg.appendChild(sub.firstChild);
+        row.appendChild(cg);
+      }
+
+      wrap.appendChild(row);
+      group.appendChild(wrap);
+    }
+
+    return group;
+  }
+
+  function addHorizontalBars() {
+    document.querySelectorAll('.org-children-row').forEach(row => {
+      const kids = Array.from(row.children);
+      if (kids.length < 2) return;
+      const rowRect = row.getBoundingClientRect();
+      const fc = kids[0].querySelector('.org-connector-up');
+      const lc = kids[kids.length-1].querySelector('.org-connector-up');
+      if (!fc || !lc) return;
+      const fr = fc.getBoundingClientRect();
+      const lr = lc.getBoundingClientRect();
+      const bar = document.createElement('div');
+      bar.className = 'org-h-bar';
+      const left = fr.left + fr.width/2 - rowRect.left;
+      const right = lr.left + lr.width/2 - rowRect.left;
+      bar.style.left = left + 'px';
+      bar.style.width = (right - left) + 'px';
+      row.appendChild(bar);
+    });
+  }
+
+  function render() {
+    chart.innerHTML = '';
+    chart.classList.remove('empty');
+    downloadBtn.style.display = 'none';
+    nodeCountEl.textContent = '';
+
+    const text = input.value.trim();
+    if (!text) {
+      chart.classList.add('empty');
+      chart.innerHTML = '<div class="empty-state"><div class="icon">◱</div><div>Enter your org structure and hit <strong>Render</strong></div></div>';
+      return;
+    }
+
+    try {
+      const tree = parseBullets(text);
+      if (!tree) throw new Error('Could not parse any nodes from the input.');
+
+      const treeEl = document.createElement('div');
+      treeEl.className = 'org-tree';
+      treeEl.appendChild(renderNode(tree, true));
+      chart.appendChild(treeEl);
+
+      requestAnimationFrame(() => addHorizontalBars());
+
+      const count = countNodes(tree);
+      nodeCountEl.textContent = count + ' node' + (count !== 1 ? 's' : '');
+      downloadBtn.style.display = '';
+      stateToURL();
+    } catch(e) {
+      const err = document.createElement('div');
+      err.className = 'error-msg';
+      err.textContent = 'Parse error: ' + e.message;
+      chart.appendChild(err);
+    }
+  }
+
+  downloadBtn.addEventListener('click', async () => {
+    const treeEl = chart.querySelector('.org-tree');
+    if (!treeEl) return;
+    downloadBtn.textContent = '…';
+    downloadBtn.disabled = true;
+    try {
+      const canvas = await html2canvas(treeEl, { backgroundColor: '#f6f5f0', scale: 2, useCORS: true, logging: false });
+      const link = document.createElement('a');
+      link.download = 'org-chart.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    } catch(e) { alert('Export failed: ' + e.message); }
+    downloadBtn.textContent = 'PNG';
+    downloadBtn.disabled = false;
+  });
+
+  const exampleText = `# Leadership team org chart
+- CEO - Jane Smith {Strategy, Culture, Board}
+  - CTO - Alice Johnson {Eng, Architecture}
+    # Engineering org
+    - VP Eng - Bob Chen {Delivery, Hiring}
+      - TL Backend - Carol Wu {APIs, DBs}
+      - TL Frontend - Dave Park {UI, Perf}
+    - VP Infra - Eve Torres {Cloud, SRE}
+  - CFO - Frank Miller {Finance, IR}
+    - Controller - Grace Lee {Accounting}
+  - CPO - Hank Davis {Product, Roadmap}
+    - VP Product - Ivy Chang {Prioritization}
+    - VP Design - Jack Wilson {UX, Brand}`;
+
+  exampleBtn.addEventListener('click', () => { input.value = exampleText; render(); });
+  renderBtn.addEventListener('click', render);
+
+  stateFromURL();
+})();
+</script>
+</body>
+</html>
