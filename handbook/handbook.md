@@ -2,6 +2,7 @@
 
 ## Version history
 
+ - v1.7.1, 2026-02-11 - Switch to org chart!
  - v1.7.0, 2025-12-29 - Update benefits, update performance reviews, update softward security, add non-Gusto reimbursements
  - v1.6.4, 2025-12-12 - Update employee list
  - v1.6.3, 2025-12-01 - Update employee list
@@ -81,42 +82,17 @@ We've been growing and expanding ever since.
 ## Staff & Boards
 
 ### Staff
-* Elisa Anguita, Developer
-* Morgan Bennet, Developer
-* Diego Chacón Rojas, Dev-Ops
-* Brennan Chesley, Developer
-* Jessica Frank, Justice Initiatives
-* Rachel Gao, AI Developer
-* Alberto Islas, Developer
-* Michael Lissner, Director
-* Libby Mandarino, Operations
-* Luiz Manzur, Developer
-* Mitch Mitchel, Justice Initiatives
-* Eri O'Diah, Partnerships
-* Bill Palin, Developer
-* Kevin Ramirez, Developer
-* Eduardo Rosendo, Developer
-* Gianfranco Rossi, Developer
-* Esti Shay, Developer
-* Stephanie Taube, User Researcher and PM
-* Jenifer Whiston, Director of Philanthropy
+ - [Org chart with Board of Directors][org]
+ - [See where we're located in the world][map].
 
-  See where we're located in [the world].
-
-  [the world]: https://maps.app.goo.gl/Z6dB157TB5Cc9npB8
+[org]: https://freelawproject.github.io/hr/org-chart.html?d=LSBCb2FyZCBvZiBEaXJlY3RvcnMge01pa2UgTGlzc25lciwgQnJpYW4gQ2FydmVyLCBBbnNlbCBIYWxsaWJ1cnRvbiwgUmViZWNjYSBGb3Jkb24sIE1pY2hlbGxlIE1hfQogIC0gTWljaGFlbCBMaXNzbmVyIChFeGVjdXRpdmUgRGlyZWN0b3IpCiAgICAtIEplbmlmZXIgV2hpc3RvbiAoRGlyZWN0b3Igb2YgUGhpbGFudGhyb3B5KSB7UGhpbGFudGhyb3B5LCBDb21tdW5pY2F0aW9ucywgTWVtYmVyc2hpcHMsIE9wZXJhdGlvbnN9CiAgICAgIC0gTGliYnkgTWFuZGFyaW5vIHtPcGVyYXRpb25zfQogICAgICAtIENvbW1zIHBlcnNvbj8KICAgICAgLSBNZW1iZXJzaGlwcyBwZXJzb24%2FCiAgICAtIEplc3NpY2EgRnJhbmsgKERpcmVjdG9yIG9mIEp1c3RpY2UgSW5pdGlhdGl2ZXMpIHtKdXN0aWNlIEluaXRpYXRpdmVzLCBQb2xpY3ksIFBhcnRuZXJzaGlwc30KICAgICAgLSBNaXRjaCBNaXRjaGVsIChEZXZlbG9wZXIpCiAgICAgIC0gRXJpIE8nRGlhaCAoVGVjaG5pY2FsIFBhcnRuZXJzaGlwcyBNYW5hZ2VyKSB7UGFydG5lcnNoaXBzfQogICAgICAtIEFub3RoZXIgZGV2PwogICAgLSBTdGVwaGFuaWUgVGF1YmUgKFVzZXIgUmVzZWFyY2hlci9QTSAoY29udHJhY3RvcikpIHtTcGVjaWFsIFByb2plY3RzfQogICAgLSBCaWxsIFBhbGluIChMZWFkIG9mIENhc2UgTGF3KSB7Q2FzZSBMYXcsIE9yYWwgQXJndW1lbnRzLCBKdWRnZXMsIERpc2Nsb3N1cmVzLCBSZXBvcnRlcnN9CiAgICAgIC0gR2lhbmZyYW5jbyBSb3NzaSAoRGV2ZWxvcGVyKQogICAgICAtIEtldmluIFJhbWlyZXogKERldmVsb3BlcikKICAgICAgLSBMdWlzIE1hbnp1ciAoRGV2ZWxvcGVyKQogICAgICAtIFNjYW5uaW5nIFRlYW0%2FCiAgICAgIC0gQW5vdGhlciBkZXY%2FCiAgICAtIEFsYmVydG8gSXNsYXMgKERldmVsb3Blcikge1NlYXJjaCwgQWxlcnRzLCBTdGF0ZSBDb250ZW50LCBTQ09UVVMgQ29udGVudCwgSW5mcmFzdHJ1Y3R1cmUsIFJFQ0FQIEV4dGVuc2lvbnMsIFBBQ0VSLCBEYXRhYmFzZSwgQVBJcywgQm90cy5sYXd9CiAgICAgIC0gU3RhdGUgVGVhbQogICAgICAgIC0gQnJlbm5hbiBDaGVzbGV5IChEZXZlbG9wZXIpCiAgICAgICAgLSBNb3JnYW4gQmVubmV0IChEZXZlbG9wZXIpCiAgICAgIC0gRWR1YXJkbyBSb3NlbmRvIChEZXZlbG9wZXIpCiAgICAgICAgLSBEaWVnbyBDaGFjw7NuIFJvamFzIChEZXYtT3BzKSB7SW5mcmFzdHJ1Y3R1cmV9CiAgICAgIC0gQW5vdGhlciBkZXY%2FCiAgICAtIEVsaXNhIEFuZ3VpdGEgKERldmVsb3Blcikge1VJLCBOZXcgSW50ZXJmYWNlLCBBY2Nlc3NpYmlsaXR5fQogICAgICAtIEVzdGkgU2hheSAoRGV2ZWxvcGVyIChjb250cmFjdG9yKSkKICAgICAgLSBEZXNpZ25lcj8KICAgICAgLSBBbm90aGVyIGRldj8KICAgIC0gQUkgVGVhbQogICAgICAtIFJhY2hlbCBHYW8gKEFJIERldmVsb3BlcikKICAgICAgLSBOYXRoYW4gRGFobGJlcmcgKEFJIERldmVsb3BlcikKICA%3D&h=1
+[map]: https://maps.app.goo.gl/Z6dB157TB5Cc9npB8
 
 ### Previous Staff
+* Colin MacArthur, Researcher
 * Andrea Ekey, 2020 Summer Intern
 * Sergei Hovyadinov, AI Legal Engineer
 * Heliya Izadpanah, 2022 Summer Intern
-
-### Board of Directors
-* Brian Carver
-* Rebecca Fordon
-* Ansel Halliburton
-* Michael Lissner
-* Michelle Ma
-
 
 ## Professional Conduct
 
