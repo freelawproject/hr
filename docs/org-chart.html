@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -335,7 +336,7 @@
   }
 
   .org-connector-down {
-    width: 1.5px;
+    width: 2px;
     height: 18px;
     background: var(--connector);
   }
@@ -353,12 +354,12 @@
   .org-h-bar {
     position: absolute;
     top: 0;
-    height: 1.5px;
+    height: 2px;
     background: var(--connector);
   }
 
   .org-connector-up {
-    width: 1.5px;
+    width: 2px;
     height: 18px;
     background: var(--connector);
   }
@@ -663,8 +664,9 @@
       const lr = lc.getBoundingClientRect();
       const bar = document.createElement('div');
       bar.className = 'org-h-bar';
-      const left = fr.left + fr.width/2 - rowRect.left;
-      const right = lr.left + lr.width/2 - rowRect.left;
+      // Use floor/ceil to guarantee the bar fully covers both connectors
+      const left = Math.floor(fr.left + fr.width / 2 - rowRect.left);
+      const right = Math.ceil(lr.left + lr.width / 2 - rowRect.left);
       bar.style.left = left + 'px';
       bar.style.width = (right - left) + 'px';
       row.appendChild(bar);
